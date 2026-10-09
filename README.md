@@ -92,7 +92,7 @@ python scripts/summarize.py baseline best
 ## 可视化
 
 ```bash
-pip install viser trimesh mujoco numpy          # 建议装在单独的虚拟环境里
+pip install viser trimesh mujoco numpy pyyaml          # 建议装在单独的虚拟环境里
 python scripts/viewer.py --left baseline --right best --port 8768
 # 本机：ssh -L 8768:127.0.0.1:8768 <服务器>，然后浏览器打开 http://127.0.0.1:8768
 ```

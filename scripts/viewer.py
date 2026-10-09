@@ -1,6 +1,6 @@
 """Interactive 3D viewer (Viser) to compare two runs side by side on the same tabletop scenes.
 
-  pip install viser trimesh mujoco numpy      (a separate virtual env is recommended)
+  pip install viser trimesh mujoco numpy pyyaml      (a separate virtual env is recommended)
   python scripts/viewer.py --left baseline --right best [--port 8768]
 Then forward the port (ssh -L 8768:127.0.0.1:8768 <server>) and open http://127.0.0.1:8768
 Read-only: it only loads existing evaluation files written by run_pipeline.py.
