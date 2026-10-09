@@ -1,0 +1,121 @@
+world:
+  type: scene_cfg
+  template_path: object/DGN_2k/scene_cfg/**/tabletop_ur10e/*.npy
+  start: 0
+  end: 7672
+robot_file: __RESOLVED__/robot.yml
+robot_file_with_arm: null
+base_cfg_file: base_grasp.yml
+particle_file: particle_grasp_debug.yml
+gradient_file: __RESOLVED__/gradient_best.yml
+exp_name: sharpa_tabletop_best
+seed_num: 32
+seeder_cfg:
+  obj_sample:
+    num: 128
+    inflate: 0.1
+    convex_hull: true
+    collision_free: true
+  ik_init_q: null
+  load_path: null
+  skip_transfer: false
+  t: null
+  r: null
+  q:
+  - 0.6
+  - 0.0
+  - 0.2
+  - 0.0
+  - 0.2
+  - 0.2
+  - -0.2
+  - 0.2
+  - 0.1
+  - 0.2
+  - -0.06666666666666667
+  - 0.2
+  - 0.1
+  - 0.2
+  - 0.06666666666666667
+  - 0.2
+  - 0.1
+  - 0.1
+  - 0.2
+  - 0.2
+  - 0.2
+  - 0.1
+  jitter_angle:
+  - - -180
+    - -15
+    - -15
+  - - 180
+    - 15
+    - 15
+  jitter_dist:
+  - - 0.0
+    - -0.03
+    - -0.03
+  - - 0.03
+    - 0.03
+    - 0.03
+grasp_contact_strategy:
+  contact_points_name:
+  - right_index_elastomer/0
+  - right_middle_elastomer/0
+  - right_ring_elastomer/0
+  - right_pinky_elastomer/0
+  - right_thumb_elastomer/0
+  opt_progress:
+  - 0.0
+  - 0.8
+  - 0.9
+  distance:
+  - 0.015
+  - 0.015
+  - 0.0
+  contact_query_mode:
+  - -1
+  - 0
+  - 0
+  save_qpos:
+  - false
+  - true
+  max_ge_stage: 0
+grasp_cfg:
+  task_dict:
+    f:
+    - 0
+    - 0
+    - 1
+    p:
+    - 0
+    - 0
+    - 0
+    t:
+    - 0
+    - 0
+    - 0
+    gamma: 180
+  ge_param:
+    type: qp
+    miu_coef:
+    - 0.1
+    - 0
+    solver_type: batch_reluqp
+    k_lower: 0.2
+    pressure_constraints:
+    - - - 0
+        - 1
+        - 2
+        - 3
+        - 4
+      - 1.0
+    - - - 0
+        - 1
+        - 2
+      - 0.4
+    - - - 4
+      - 0.5
+    enable_density: false
+    solve_interval: 5
+mogen_init: null

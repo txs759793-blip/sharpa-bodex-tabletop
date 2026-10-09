@@ -1,0 +1,42 @@
+xml_path: __SHARPA_MODELS__/wave_01/right_sharpa_wave/right_sharpa_wave.xml
+mocap: true
+exclude_table_contact: null
+color:
+- 0.7
+- 0.7
+- 0.7
+- 1.0
+finger_prefix:
+- right_index
+- right_middle
+- right_ring
+- right_pinky
+- right_thumb
+valid_body_name:
+- right_hand_C_MC
+- right_index_DP
+- right_index_MCP_VL
+- right_index_MP
+- right_index_PP
+- right_middle_DP
+- right_middle_MCP_VL
+- right_middle_MP
+- right_middle_PP
+- right_pinky_DP
+- right_pinky_MC
+- right_pinky_MCP_VL
+- right_pinky_MP
+- right_pinky_PP
+- right_ring_DP
+- right_ring_MCP_VL
+- right_ring_MP
+- right_ring_PP
+- right_thumb_DP
+- right_thumb_MC
+- right_thumb_PP
+tip_body_name:
+- right_index_DP
+- right_middle_DP
+- right_ring_DP
+- right_pinky_DP
+- right_thumb_DP

@@ -1,0 +1,16 @@
+This repository contains a URDF file (configs/robot/right_sharpa_wave_bodex.urdf) derived from the official
+Sharpa Wave model released at https://github.com/sharpa-robotics/sharpa-urdf-usd-xml (commit 0d19cac6):
+
+    Copyright 2025 Sharpa Group
+    Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in
+    compliance with the License. You may obtain a copy of the License at
+        http://www.apache.org/licenses/LICENSE-2.0
+    Unless required by applicable law or agreed to in writing, software distributed under the License is
+    distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+
+It is an adapted copy prepared for use with BODex (cuRobo); in this repository its mesh paths are replaced by a
+placeholder that is resolved to a local checkout of the official repository at run time. No mesh files are
+redistributed here.
+
+The generation configs under configs/generation/ are based on the Shadow Hand configs shipped with BODex
+(https://github.com/JYChen18/BODex).

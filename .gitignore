@@ -1,0 +1,5 @@
+paths.yaml
+_raw/
+__pycache__/
+*.pyc
+work/

@@ -1,0 +1,6 @@
+# Copy to paths.yaml and edit. All paths are absolute.
+bodex_root: /path/to/BODex                       # patched checkout, commit 06b9a3c9
+dexgraspbench_root: /path/to/DexGraspBench       # patched checkout, commit d9ea6cf2
+sharpa_models_root: /path/to/sharpa-urdf-usd-xml # official Sharpa models, commit 0d19cac6
+python: /path/to/envs/bodex/bin/python           # env with torch, curobo (BODex), mujoco
+work_dir: /path/to/output                        # everything is written here

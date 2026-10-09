@@ -1,0 +1,4002 @@
+[
+{
+"object": "mujoco_Gigabyte_GA970AUD3P_10_Motherboard_ATX_Socket_AM3",
+"scene_key": "mujoco_Gigabyte_GA970AUD3P_10_Motherboard_ATX_Socket_AM3/tabletop_ur10e/scale006_pose004_0"
+},
+{
+"object": "core_can_788094fbf1a523f768104c9df46104ca",
+"scene_key": "core_can_788094fbf1a523f768104c9df46104ca/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "mujoco_Beetle_Adventure_Racing_Nintendo_64",
+"scene_key": "mujoco_Beetle_Adventure_Racing_Nintendo_64/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "core_can_10c9a321485711a88051229d056d81db",
+"scene_key": "core_can_10c9a321485711a88051229d056d81db/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "core_can_97ca02ee1e7b8efb6193d9e76bb15876",
+"scene_key": "core_can_97ca02ee1e7b8efb6193d9e76bb15876/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "ddg_gd_tetra_pak_poisson_000",
+"scene_key": "ddg_gd_tetra_pak_poisson_000/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "core_jar_537670c883cc57f730612f5c0ef21eb8",
+"scene_key": "core_jar_537670c883cc57f730612f5c0ef21eb8/tabletop_ur10e/scale010_pose008_0"
+},
+{
+"object": "sem_VideoGameConsole_5859f4761ea7c81c1dcbf3da3b253cbe",
+"scene_key": "sem_VideoGameConsole_5859f4761ea7c81c1dcbf3da3b253cbe/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "mujoco_Cole_Hardware_Antislip_Surfacing_White_2_x_60",
+"scene_key": "mujoco_Cole_Hardware_Antislip_Surfacing_White_2_x_60/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "sem_Vase_aa080060dcfd22b3265d1076b4b6c5c",
+"scene_key": "sem_Vase_aa080060dcfd22b3265d1076b4b6c5c/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_SodaCan_bf974687b678c66e93fb5c975e8de2b7",
+"scene_key": "sem_SodaCan_bf974687b678c66e93fb5c975e8de2b7/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "sem_Vase_418003a4a24e2c18265d1076b4b6c5c",
+"scene_key": "sem_Vase_418003a4a24e2c18265d1076b4b6c5c/tabletop_ur10e/scale010_pose008_0"
+},
+{
+"object": "core_pillow_89fd3acbd34e72106a6cca39468798a8",
+"scene_key": "core_pillow_89fd3acbd34e72106a6cca39468798a8/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "sem_Ball_e301a0fef95e78e78c9affdacaf55648",
+"scene_key": "sem_Ball_e301a0fef95e78e78c9affdacaf55648/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "core_bottle_5d6001f9e6a15de3e3edb5ba52088f8c",
+"scene_key": "core_bottle_5d6001f9e6a15de3e3edb5ba52088f8c/tabletop_ur10e/scale008_pose006_0"
+},
+{
+"object": "mujoco_Hasbro_Trivial_Pursuit_Family_Edition_Game",
+"scene_key": "mujoco_Hasbro_Trivial_Pursuit_Family_Edition_Game/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "core_mug_d32cd77c6630b77de47c0353c18d58e",
+"scene_key": "core_mug_d32cd77c6630b77de47c0353c18d58e/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "core_bottle_640835881dd33a2d30354e87bd14ec69",
+"scene_key": "core_bottle_640835881dd33a2d30354e87bd14ec69/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "mujoco_Threshold_Porcelain_Pitcher_White",
+"scene_key": "mujoco_Threshold_Porcelain_Pitcher_White/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "mujoco_3M_Antislip_Surfacing_Light_Duty_White",
+"scene_key": "mujoco_3M_Antislip_Surfacing_Light_Duty_White/tabletop_ur10e/scale010_pose004_0"
+},
+{
+"object": "core_cellphone_8b08eb5ebea05e49a3ed2b429444c197",
+"scene_key": "core_cellphone_8b08eb5ebea05e49a3ed2b429444c197/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "sem_DrinkingUtensil_5b0c679eb8a2156c4314179664d18101",
+"scene_key": "sem_DrinkingUtensil_5b0c679eb8a2156c4314179664d18101/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "core_bottle_21dbbd17ae4c3fce6a90f735365ac29e",
+"scene_key": "core_bottle_21dbbd17ae4c3fce6a90f735365ac29e/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "mujoco_Deskstar_Desk_Top_Hard_Drive_1_TB",
+"scene_key": "mujoco_Deskstar_Desk_Top_Hard_Drive_1_TB/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "core_mug_a1d293f5cc20d01ad7f470ee20dce9e0",
+"scene_key": "core_mug_a1d293f5cc20d01ad7f470ee20dce9e0/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "core_mug_6500ccc65e210b14d829190312080ea3",
+"scene_key": "core_mug_6500ccc65e210b14d829190312080ea3/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_TissueBox_ead04620c411e80e6c3c5100db3288c",
+"scene_key": "sem_TissueBox_ead04620c411e80e6c3c5100db3288c/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "sem_Bottle_d9aee510fd5e8afb93fb5c975e8de2b7",
+"scene_key": "sem_Bottle_d9aee510fd5e8afb93fb5c975e8de2b7/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "mujoco_Perricone_MD_Skin_Clear_Supplements",
+"scene_key": "mujoco_Perricone_MD_Skin_Clear_Supplements/tabletop_ur10e/scale010_pose004_0"
+},
+{
+"object": "sem_Battery_7ecc6a361de0128ec8de11d571206924",
+"scene_key": "sem_Battery_7ecc6a361de0128ec8de11d571206924/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "sem_PillBottle_776502db6e2e680e5e4f0d37557f3953",
+"scene_key": "sem_PillBottle_776502db6e2e680e5e4f0d37557f3953/tabletop_ur10e/scale008_pose005_0"
+},
+{
+"object": "core_mug_1be6b2c84cdab826c043c2d07bb83fc8",
+"scene_key": "core_mug_1be6b2c84cdab826c043c2d07bb83fc8/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "ddg_kit_Rice",
+"scene_key": "ddg_kit_Rice/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "core_can_990a058fbb51c655d773a8448a79e14c",
+"scene_key": "core_can_990a058fbb51c655d773a8448a79e14c/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "core_jar_dddd30f41cd6543e25e65d4b5f3b6456",
+"scene_key": "core_jar_dddd30f41cd6543e25e65d4b5f3b6456/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "ddg_bigbird_crayola_yellow_green",
+"scene_key": "ddg_bigbird_crayola_yellow_green/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "sem_CellPhone_b45a8268ef0af4ced1e2e75d4f3c9502",
+"scene_key": "sem_CellPhone_b45a8268ef0af4ced1e2e75d4f3c9502/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "core_jar_41fcf346a7b3ceb75337cdc4b758988c",
+"scene_key": "core_jar_41fcf346a7b3ceb75337cdc4b758988c/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "core_bowl_5f2ef71aa9b94edbb84959963148f2a2",
+"scene_key": "core_bowl_5f2ef71aa9b94edbb84959963148f2a2/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "core_jar_537670c883cc57f730612f5c0ef21eb8",
+"scene_key": "core_jar_537670c883cc57f730612f5c0ef21eb8/tabletop_ur10e/scale008_pose006_0"
+},
+{
+"object": "ddg_gd_tetra_pak_poisson_020",
+"scene_key": "ddg_gd_tetra_pak_poisson_020/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "sem_FileCabinet_a44d92a6431afe516d907bf61e189d9d",
+"scene_key": "sem_FileCabinet_a44d92a6431afe516d907bf61e189d9d/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "core_mug_bcb6be8f0ff4a51872e526c4f21dfca4",
+"scene_key": "core_mug_bcb6be8f0ff4a51872e526c4f21dfca4/tabletop_ur10e/scale012_pose006_0"
+},
+{
+"object": "core_bowl_bb7586ebee0dc2be4e346ee2650d150",
+"scene_key": "core_bowl_bb7586ebee0dc2be4e346ee2650d150/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "core_bottle_3f41aaa42a237fa3c785f06f424b9d06",
+"scene_key": "core_bottle_3f41aaa42a237fa3c785f06f424b9d06/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "mujoco_Nescafe_Memento_Latte_Caramel_8_08_oz_23_g_packets_64_oz_184_g",
+"scene_key": "mujoco_Nescafe_Memento_Latte_Caramel_8_08_oz_23_g_packets_64_oz_184_g/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "core_camera_9726bf2b38d817eab169d2793795b997",
+"scene_key": "core_camera_9726bf2b38d817eab169d2793795b997/tabletop_ur10e/scale008_pose005_0"
+},
+{
+"object": "mujoco_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001",
+"scene_key": "mujoco_Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "mujoco_Toysmith_Windem_Up_Flippin_Animals_Dog",
+"scene_key": "mujoco_Toysmith_Windem_Up_Flippin_Animals_Dog/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "sem_VideoGameConsole_92c527aecefcd1c1d5f67d7e37b44e96",
+"scene_key": "sem_VideoGameConsole_92c527aecefcd1c1d5f67d7e37b44e96/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_TissueBox_13a913b33fb29f7741f9f28bc4fa9522",
+"scene_key": "sem_TissueBox_13a913b33fb29f7741f9f28bc4fa9522/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "sem_SodaCan_d26241f55fe81e2b5c8e7963449f8577",
+"scene_key": "sem_SodaCan_d26241f55fe81e2b5c8e7963449f8577/tabletop_ur10e/scale012_pose007_0"
+},
+{
+"object": "ddg_gd_spray_can_poisson_003",
+"scene_key": "ddg_gd_spray_can_poisson_003/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "mujoco_Office_Depot_Canon_CL211XL_Remanufactured_Ink_Cartridge_TriColor",
+"scene_key": "mujoco_Office_Depot_Canon_CL211XL_Remanufactured_Ink_Cartridge_TriColor/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "core_can_f755800334fcb49b450911b585bf4df8",
+"scene_key": "core_can_f755800334fcb49b450911b585bf4df8/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "core_mug_e16a895052da87277f58c33b328479f4",
+"scene_key": "core_mug_e16a895052da87277f58c33b328479f4/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "ddg_kit_MashedPotatoes",
+"scene_key": "ddg_kit_MashedPotatoes/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "sem_RubiksCube_4e9447dfd2b56527fc7a8e315c9ddc8",
+"scene_key": "sem_RubiksCube_4e9447dfd2b56527fc7a8e315c9ddc8/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "core_can_ace554442d7d530830612f5c0ef21eb8",
+"scene_key": "core_can_ace554442d7d530830612f5c0ef21eb8/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "ddg_ycb_073_f_lego_duplo",
+"scene_key": "ddg_ycb_073_f_lego_duplo/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "ddg_gd_binder_poisson_004",
+"scene_key": "ddg_gd_binder_poisson_004/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "ddg_kit_BakingSoda",
+"scene_key": "ddg_kit_BakingSoda/tabletop_ur10e/scale006_pose007_0"
+},
+{
+"object": "sem_FoodItem_39fa4eaa7d13f538dc0dec45107520e9",
+"scene_key": "sem_FoodItem_39fa4eaa7d13f538dc0dec45107520e9/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "mujoco_Toysmith_Windem_Up_Flippin_Animals_Dog",
+"scene_key": "mujoco_Toysmith_Windem_Up_Flippin_Animals_Dog/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "ddg_kit_BakingSoda",
+"scene_key": "ddg_kit_BakingSoda/tabletop_ur10e/scale012_pose008_0"
+},
+{
+"object": "sem_Camera_8432562562f105887b6fd5468f603b31",
+"scene_key": "sem_Camera_8432562562f105887b6fd5468f603b31/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "sem_SodaCan_870957a98b8e7aa950a148fa1cc89f91",
+"scene_key": "sem_SodaCan_870957a98b8e7aa950a148fa1cc89f91/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "sem_PillBottle_f6de2a85da0e89b53f222a37719e9945",
+"scene_key": "sem_PillBottle_f6de2a85da0e89b53f222a37719e9945/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "sem_Bottle_a429f8eb0c3e6a1e6ea2d79f658bbae7",
+"scene_key": "sem_Bottle_a429f8eb0c3e6a1e6ea2d79f658bbae7/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "ddg_ycb_073_c_lego_duplo",
+"scene_key": "ddg_ycb_073_c_lego_duplo/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "core_jar_1a8f9295b44b48895e8c5748ca5ef3ea",
+"scene_key": "core_jar_1a8f9295b44b48895e8c5748ca5ef3ea/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "ddg_gd_jar_poisson_015",
+"scene_key": "ddg_gd_jar_poisson_015/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "ddg_kit_ChocSticks",
+"scene_key": "ddg_kit_ChocSticks/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "core_can_3fd8dae962fa3cc726df885e47f82f16",
+"scene_key": "core_can_3fd8dae962fa3cc726df885e47f82f16/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "sem_DrinkingUtensil_2997f21fa426e18a6ab1a25d0e8f3590",
+"scene_key": "sem_DrinkingUtensil_2997f21fa426e18a6ab1a25d0e8f3590/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "core_can_e706cf452c4c124d77335fb90343dc9e",
+"scene_key": "core_can_e706cf452c4c124d77335fb90343dc9e/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "core_jar_537670c883cc57f730612f5c0ef21eb8",
+"scene_key": "core_jar_537670c883cc57f730612f5c0ef21eb8/tabletop_ur10e/scale008_pose008_0"
+},
+{
+"object": "core_jar_8c9ffa8ee8f3b497e987f10c30c67205",
+"scene_key": "core_jar_8c9ffa8ee8f3b497e987f10c30c67205/tabletop_ur10e/scale012_pose005_0"
+},
+{
+"object": "ddg_kit_DropsOrange",
+"scene_key": "ddg_kit_DropsOrange/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "core_mug_fad118b32085f3f2c2c72e575af174cd",
+"scene_key": "core_mug_fad118b32085f3f2c2c72e575af174cd/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_Bottle_15787789482f045d8add95bf56d3d2fa",
+"scene_key": "sem_Bottle_15787789482f045d8add95bf56d3d2fa/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "core_can_3c8af6b0aeaf13c2abf4b6b757f4f768",
+"scene_key": "core_can_3c8af6b0aeaf13c2abf4b6b757f4f768/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "sem_ToiletPaper_3585a9ea9a1c40d5533775ea6714a372",
+"scene_key": "sem_ToiletPaper_3585a9ea9a1c40d5533775ea6714a372/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "core_bottle_681e91bbadebeac529471183b63392dc",
+"scene_key": "core_bottle_681e91bbadebeac529471183b63392dc/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "sem_Piano_9578f81207bacd5ddd7dc0810367760d",
+"scene_key": "sem_Piano_9578f81207bacd5ddd7dc0810367760d/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "sem_TapeMeasure_8f0a948bdcf8a65d43a73aba20837492",
+"scene_key": "sem_TapeMeasure_8f0a948bdcf8a65d43a73aba20837492/tabletop_ur10e/scale012_pose005_0"
+},
+{
+"object": "mujoco_Inositol",
+"scene_key": "mujoco_Inositol/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "core_bottle_ae52386c7a6e25a1a666d1503f8e34ad",
+"scene_key": "core_bottle_ae52386c7a6e25a1a666d1503f8e34ad/tabletop_ur10e/scale012_pose005_0"
+},
+{
+"object": "ddg_gd_egg_poisson_008",
+"scene_key": "ddg_gd_egg_poisson_008/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "sem_WallClock_b029b05ae3761f0b582ed853b74eeebb",
+"scene_key": "sem_WallClock_b029b05ae3761f0b582ed853b74eeebb/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "mujoco_PEPSI_NEXT_CACRV",
+"scene_key": "mujoco_PEPSI_NEXT_CACRV/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "sem_FoodItem_118644ba80aa5048ac59fb466121cd17",
+"scene_key": "sem_FoodItem_118644ba80aa5048ac59fb466121cd17/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "core_can_7bd05573c09fb0c2af39ccaab9314b14",
+"scene_key": "core_can_7bd05573c09fb0c2af39ccaab9314b14/tabletop_ur10e/scale010_pose006_0"
+},
+{
+"object": "sem_FoodItem_e5a4666423674a889f7bbf181f9c6d08",
+"scene_key": "sem_FoodItem_e5a4666423674a889f7bbf181f9c6d08/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "sem_TableClock_c98d0ef0e3ef0789ad26df5ad8113c0b",
+"scene_key": "sem_TableClock_c98d0ef0e3ef0789ad26df5ad8113c0b/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "sem_PillBottle_11a0f60b9baaaf59968608843530f3d7",
+"scene_key": "sem_PillBottle_11a0f60b9baaaf59968608843530f3d7/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "mujoco_Ecoforms_Cup_B4_SAN",
+"scene_key": "mujoco_Ecoforms_Cup_B4_SAN/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "sem_Bottle_e593aa021f3fa324530647fc03dd20dc",
+"scene_key": "sem_Bottle_e593aa021f3fa324530647fc03dd20dc/tabletop_ur10e/scale006_pose004_0"
+},
+{
+"object": "ddg_gd_toilet_paper_poisson_000",
+"scene_key": "ddg_gd_toilet_paper_poisson_000/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "core_jar_eaaa14d9fab71afa5b903ba10d2ec446",
+"scene_key": "core_jar_eaaa14d9fab71afa5b903ba10d2ec446/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "core_jar_aea1a8fee02c011db8183a4a81361b94",
+"scene_key": "core_jar_aea1a8fee02c011db8183a4a81361b94/tabletop_ur10e/scale010_pose007_0"
+},
+{
+"object": "ddg_gd_rubik_cube_poisson_005",
+"scene_key": "ddg_gd_rubik_cube_poisson_005/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "core_bottle_681e91bbadebeac529471183b63392dc",
+"scene_key": "core_bottle_681e91bbadebeac529471183b63392dc/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "mujoco_AllergenFree_JarroDophilus",
+"scene_key": "mujoco_AllergenFree_JarroDophilus/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "core_pillow_adc12b60e048f81b283b00891f680579",
+"scene_key": "core_pillow_adc12b60e048f81b283b00891f680579/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "ddg_bigbird_hersheys_cocoa",
+"scene_key": "ddg_bigbird_hersheys_cocoa/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "sem_ToiletPaper_c34a1187b6842c97f677220a1c9508e3",
+"scene_key": "sem_ToiletPaper_c34a1187b6842c97f677220a1c9508e3/tabletop_ur10e/scale008_pose011_0"
+},
+{
+"object": "sem_SodaCan_d26241f55fe81e2b5c8e7963449f8577",
+"scene_key": "sem_SodaCan_d26241f55fe81e2b5c8e7963449f8577/tabletop_ur10e/scale010_pose007_0"
+},
+{
+"object": "core_mug_896f1d494bac0ebcdec712af445786fe",
+"scene_key": "core_mug_896f1d494bac0ebcdec712af445786fe/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "mujoco_MINI_ROLLER",
+"scene_key": "mujoco_MINI_ROLLER/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "sem_TissueBox_f9cf0ccfcb21c2e7899c1686868c4bc",
+"scene_key": "sem_TissueBox_f9cf0ccfcb21c2e7899c1686868c4bc/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "core_bowl_baeaa576ba746179e8d7df9e0b95a9b2",
+"scene_key": "core_bowl_baeaa576ba746179e8d7df9e0b95a9b2/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "core_camera_a230560372fd55a410ec06105f027b7d",
+"scene_key": "core_camera_a230560372fd55a410ec06105f027b7d/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "mujoco_Down_To_Earth_Ceramic_Orchid_Pot_Asst_Blue",
+"scene_key": "mujoco_Down_To_Earth_Ceramic_Orchid_Pot_Asst_Blue/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "mujoco_Kong_Puppy_Teething_Rubber_Small_Pink",
+"scene_key": "mujoco_Kong_Puppy_Teething_Rubber_Small_Pink/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "core_mug_d75af64aa166c24eacbe2257d0988c9c",
+"scene_key": "core_mug_d75af64aa166c24eacbe2257d0988c9c/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "sem_Bear_931aed954d9930a6cf3c4bee96d5618c",
+"scene_key": "sem_Bear_931aed954d9930a6cf3c4bee96d5618c/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "core_camera_4852ee95e7bd8556c60396a717ba6c7e",
+"scene_key": "core_camera_4852ee95e7bd8556c60396a717ba6c7e/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "sem_Vase_b9db26d5fcbc40b4b452845bf52a7b0f",
+"scene_key": "sem_Vase_b9db26d5fcbc40b4b452845bf52a7b0f/tabletop_ur10e/scale006_pose008_0"
+},
+{
+"object": "core_jar_41fcf346a7b3ceb75337cdc4b758988c",
+"scene_key": "core_jar_41fcf346a7b3ceb75337cdc4b758988c/tabletop_ur10e/scale008_pose006_0"
+},
+{
+"object": "core_mug_e9499e4a9f632725d6e865157050a80e",
+"scene_key": "core_mug_e9499e4a9f632725d6e865157050a80e/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "core_jar_dddd30f41cd6543e25e65d4b5f3b6456",
+"scene_key": "core_jar_dddd30f41cd6543e25e65d4b5f3b6456/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "core_cellphone_3a6a3db4a0174fddd2789f496481c83e",
+"scene_key": "core_cellphone_3a6a3db4a0174fddd2789f496481c83e/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "core_bowl_a29f53390194166665c638ab0bc6bc66",
+"scene_key": "core_bowl_a29f53390194166665c638ab0bc6bc66/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "core_mug_a8f7a0edd3edc3299e54b4084dc33544",
+"scene_key": "core_mug_a8f7a0edd3edc3299e54b4084dc33544/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "mujoco_LEGO_City_Advent_Calendar",
+"scene_key": "mujoco_LEGO_City_Advent_Calendar/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "core_mug_633379db14d4d2b287dd60af81c93a3c",
+"scene_key": "core_mug_633379db14d4d2b287dd60af81c93a3c/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "mujoco_Black_Decker_Stainless_Steel_Toaster_4_Slice",
+"scene_key": "mujoco_Black_Decker_Stainless_Steel_Toaster_4_Slice/tabletop_ur10e/scale006_pose004_0"
+},
+{
+"object": "mujoco_Asus_80211ac_DualBand_Gigabit_Wireless_Router_RTAC68R",
+"scene_key": "mujoco_Asus_80211ac_DualBand_Gigabit_Wireless_Router_RTAC68R/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "core_mug_9ff8400080c77feac2ad6fd1941624c3",
+"scene_key": "core_mug_9ff8400080c77feac2ad6fd1941624c3/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "sem_PillBottle_bb234652525a68498d969821a85884b2",
+"scene_key": "sem_PillBottle_bb234652525a68498d969821a85884b2/tabletop_ur10e/scale008_pose006_0"
+},
+{
+"object": "sem_Hat_78ffdd0f1440161ca7591d4119c4254f",
+"scene_key": "sem_Hat_78ffdd0f1440161ca7591d4119c4254f/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "sem_VideoGameConsole_92c527aecefcd1c1d5f67d7e37b44e96",
+"scene_key": "sem_VideoGameConsole_92c527aecefcd1c1d5f67d7e37b44e96/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "sem_Vase_f17c8c7d510658a02f2318fdd66be40a",
+"scene_key": "sem_Vase_f17c8c7d510658a02f2318fdd66be40a/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "sem_VideoGameConsole_614f21133d44498313863167023e6b10",
+"scene_key": "sem_VideoGameConsole_614f21133d44498313863167023e6b10/tabletop_ur10e/scale012_pose005_0"
+},
+{
+"object": "core_jar_f02b827d757fcff25692a9640d6947fc",
+"scene_key": "core_jar_f02b827d757fcff25692a9640d6947fc/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "mujoco_Olive_Kids_Birdie_Lunch_Box",
+"scene_key": "mujoco_Olive_Kids_Birdie_Lunch_Box/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "sem_Vase_6af347c8e74b5b715d878ba9ec3c0d6a",
+"scene_key": "sem_Vase_6af347c8e74b5b715d878ba9ec3c0d6a/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "sem_Vase_9c06b546a29ccb2f2c27670a86683659",
+"scene_key": "sem_Vase_9c06b546a29ccb2f2c27670a86683659/tabletop_ur10e/scale008_pose005_0"
+},
+{
+"object": "ddg_gd_can_poisson_018",
+"scene_key": "ddg_gd_can_poisson_018/tabletop_ur10e/scale006_pose008_0"
+},
+{
+"object": "sem_Gun_8834a85c572d88802a23d93958262ccc",
+"scene_key": "sem_Gun_8834a85c572d88802a23d93958262ccc/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "sem_SodaCan_3c8af6b0aeaf13c2abf4b6b757f4f768",
+"scene_key": "sem_SodaCan_3c8af6b0aeaf13c2abf4b6b757f4f768/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_Vase_5c63abf37622497759f9892433e1b1f4",
+"scene_key": "sem_Vase_5c63abf37622497759f9892433e1b1f4/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "sem_VideoGameConsole_34fbbfd72d2ff245a22181eaae22bac2",
+"scene_key": "sem_VideoGameConsole_34fbbfd72d2ff245a22181eaae22bac2/tabletop_ur10e/scale006_pose004_0"
+},
+{
+"object": "core_camera_235a6dd25c0a6f7b66f19f26ac490096",
+"scene_key": "core_camera_235a6dd25c0a6f7b66f19f26ac490096/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "sem_Hat_5d4d91f11de1556a4e1245a3408a191",
+"scene_key": "sem_Hat_5d4d91f11de1556a4e1245a3408a191/tabletop_ur10e/scale010_pose006_0"
+},
+{
+"object": "ddg_gd_can_poisson_018",
+"scene_key": "ddg_gd_can_poisson_018/tabletop_ur10e/scale008_pose007_0"
+},
+{
+"object": "ddg_bigbird_hunts_sauce",
+"scene_key": "ddg_bigbird_hunts_sauce/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "mujoco_AllergenFree_JarroDophilus",
+"scene_key": "mujoco_AllergenFree_JarroDophilus/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "mujoco_Twinlab_Premium_Creatine_Fuel_Powder",
+"scene_key": "mujoco_Twinlab_Premium_Creatine_Fuel_Powder/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "mujoco_Phillips_Colon_Health_Probiotic_Capsule",
+"scene_key": "mujoco_Phillips_Colon_Health_Probiotic_Capsule/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "mujoco_Twinlab_100_Whey_Protein_Fuel_Vanilla",
+"scene_key": "mujoco_Twinlab_100_Whey_Protein_Fuel_Vanilla/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_DrinkingUtensil_8b1dca1414ba88cb91986c63a4d7a99a",
+"scene_key": "sem_DrinkingUtensil_8b1dca1414ba88cb91986c63a4d7a99a/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "mujoco_Mad_Gab_Refresh_Card_Game",
+"scene_key": "mujoco_Mad_Gab_Refresh_Card_Game/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "core_camera_483c387d6886e603314b44839465ec00",
+"scene_key": "core_camera_483c387d6886e603314b44839465ec00/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "core_jar_256b66cbb1bd1c88b2cb9dff9356b165",
+"scene_key": "core_jar_256b66cbb1bd1c88b2cb9dff9356b165/tabletop_ur10e/scale012_pose008_0"
+},
+{
+"object": "sem_Vase_b9db26d5fcbc40b4b452845bf52a7b0f",
+"scene_key": "sem_Vase_b9db26d5fcbc40b4b452845bf52a7b0f/tabletop_ur10e/scale012_pose009_0"
+},
+{
+"object": "mujoco_Office_Depot_Dell_Series_9_Ink_Cartridge_Black_MK992",
+"scene_key": "mujoco_Office_Depot_Dell_Series_9_Ink_Cartridge_Black_MK992/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "core_jar_83e749b6b8a6db9af67a276d485e951",
+"scene_key": "core_jar_83e749b6b8a6db9af67a276d485e951/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "core_jar_cec74e921815d1323785c1af944402a3",
+"scene_key": "core_jar_cec74e921815d1323785c1af944402a3/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "ddg_ycb_065_b_cups",
+"scene_key": "ddg_ycb_065_b_cups/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "core_bottle_c6442bba98ad3dcf5e912b2d2934c0b6",
+"scene_key": "core_bottle_c6442bba98ad3dcf5e912b2d2934c0b6/tabletop_ur10e/scale010_pose008_0"
+},
+{
+"object": "ddg_gd_spray_can_poisson_003",
+"scene_key": "ddg_gd_spray_can_poisson_003/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "mujoco_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle",
+"scene_key": "mujoco_Marc_Anthony_Strictly_Curls_Curl_Envy_Perfect_Curl_Cream_6_fl_oz_bottle/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "core_jar_8ba355a47e0dd19c491effd0ae881ea",
+"scene_key": "core_jar_8ba355a47e0dd19c491effd0ae881ea/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "mujoco_Travel_Smart_Neck_Rest_Inflatable",
+"scene_key": "mujoco_Travel_Smart_Neck_Rest_Inflatable/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "core_jar_f2599921c8e0a76ea4e7499e379fa4fc",
+"scene_key": "core_jar_f2599921c8e0a76ea4e7499e379fa4fc/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "core_bottle_fda8d8820e4d166bd7134844380eaeb0",
+"scene_key": "core_bottle_fda8d8820e4d166bd7134844380eaeb0/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "core_camera_9726bf2b38d817eab169d2793795b997",
+"scene_key": "core_camera_9726bf2b38d817eab169d2793795b997/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "core_jar_60abc8a27bb77020535deb3b0c692a2a",
+"scene_key": "core_jar_60abc8a27bb77020535deb3b0c692a2a/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "ddg_gd_tetra_pak_poisson_025",
+"scene_key": "ddg_gd_tetra_pak_poisson_025/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "ddg_gd_toaster_poisson_005",
+"scene_key": "ddg_gd_toaster_poisson_005/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "sem_Vase_b9db26d5fcbc40b4b452845bf52a7b0f",
+"scene_key": "sem_Vase_b9db26d5fcbc40b4b452845bf52a7b0f/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "sem_Car_b7645cf6a5951d83ea20189afcde525",
+"scene_key": "sem_Car_b7645cf6a5951d83ea20189afcde525/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "sem_Car_f9c2bc7b4ef896e7146ff63b4c7525d9",
+"scene_key": "sem_Car_f9c2bc7b4ef896e7146ff63b4c7525d9/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "ddg_kit_DropsOrange",
+"scene_key": "ddg_kit_DropsOrange/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_ToiletPaper_3ae42af85250afde9e40e3e25a634011",
+"scene_key": "sem_ToiletPaper_3ae42af85250afde9e40e3e25a634011/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "sem_CerealBox_c87bb65a628e0ca6a4bd57b754f4233c",
+"scene_key": "sem_CerealBox_c87bb65a628e0ca6a4bd57b754f4233c/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "sem_Rock_386c91ddd48b956f85b5e1f7eb9f2b9c",
+"scene_key": "sem_Rock_386c91ddd48b956f85b5e1f7eb9f2b9c/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "core_bottle_5d6b5d1b135b8cf8b7886d94372e3c76",
+"scene_key": "core_bottle_5d6b5d1b135b8cf8b7886d94372e3c76/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "core_bottle_21dbbd17ae4c3fce6a90f735365ac29e",
+"scene_key": "core_bottle_21dbbd17ae4c3fce6a90f735365ac29e/tabletop_ur10e/scale008_pose005_0"
+},
+{
+"object": "mujoco_Crayola_Washable_Sidewalk_Chalk_16_pack_wDZECiw7J6s",
+"scene_key": "mujoco_Crayola_Washable_Sidewalk_Chalk_16_pack_wDZECiw7J6s/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "mujoco_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream",
+"scene_key": "mujoco_Twinlab_100_Whey_Protein_Fuel_Cookies_and_Cream/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "sem_Ball_9bad3004f23f1e540a92729068b6b39",
+"scene_key": "sem_Ball_9bad3004f23f1e540a92729068b6b39/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "sem_CerealBox_e481c3d08c11fc9e2978181091f6882a",
+"scene_key": "sem_CerealBox_e481c3d08c11fc9e2978181091f6882a/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "ddg_gd_rubik_cube_poisson_005",
+"scene_key": "ddg_gd_rubik_cube_poisson_005/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "mujoco_Organic_Whey_Protein_Vanilla",
+"scene_key": "mujoco_Organic_Whey_Protein_Vanilla/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "ddg_gd_toilet_paper_poisson_008",
+"scene_key": "ddg_gd_toilet_paper_poisson_008/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "core_bottle_495dea92a04b43e6be9fabb33de62010",
+"scene_key": "core_bottle_495dea92a04b43e6be9fabb33de62010/tabletop_ur10e/scale012_pose007_0"
+},
+{
+"object": "ddg_bigbird_campbells_chicken_noodle_soup",
+"scene_key": "ddg_bigbird_campbells_chicken_noodle_soup/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "sem_TissueBox_b11db9eeac44be0550d1fe15308b63aa",
+"scene_key": "sem_TissueBox_b11db9eeac44be0550d1fe15308b63aa/tabletop_ur10e/scale010_pose004_0"
+},
+{
+"object": "sem_DrinkingUtensil_336122c3105440d193e42e2720468bf0",
+"scene_key": "sem_DrinkingUtensil_336122c3105440d193e42e2720468bf0/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "ddg_gd_mushroom_poisson_007",
+"scene_key": "ddg_gd_mushroom_poisson_007/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "core_jar_ffc7e98720e71017b3878cedd8c8fe6c",
+"scene_key": "core_jar_ffc7e98720e71017b3878cedd8c8fe6c/tabletop_ur10e/scale012_pose005_0"
+},
+{
+"object": "sem_ToiletPaper_a83653ad2ba5562b713429629f985672",
+"scene_key": "sem_ToiletPaper_a83653ad2ba5562b713429629f985672/tabletop_ur10e/scale010_pose004_0"
+},
+{
+"object": "core_bowl_53f5240e1e82c96e2d20e9f11baa5f8f",
+"scene_key": "core_bowl_53f5240e1e82c96e2d20e9f11baa5f8f/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "ddg_ycb_073_d_lego_duplo",
+"scene_key": "ddg_ycb_073_d_lego_duplo/tabletop_ur10e/scale012_pose005_0"
+},
+{
+"object": "mujoco_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97",
+"scene_key": "mujoco_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "ddg_gd_tetra_pak_poisson_018",
+"scene_key": "ddg_gd_tetra_pak_poisson_018/tabletop_ur10e/scale006_pose004_0"
+},
+{
+"object": "sem_Showerhead_24e539b4aafc1ac476d20e73c57c9a03",
+"scene_key": "sem_Showerhead_24e539b4aafc1ac476d20e73c57c9a03/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "core_jar_5e1c630396c0a1ce30cbeaf8f6d93761",
+"scene_key": "core_jar_5e1c630396c0a1ce30cbeaf8f6d93761/tabletop_ur10e/scale010_pose008_0"
+},
+{
+"object": "ddg_ycb_004_sugar_box",
+"scene_key": "ddg_ycb_004_sugar_box/tabletop_ur10e/scale012_pose005_0"
+},
+{
+"object": "core_mug_6faf1f04bde838e477f883dde7397db2",
+"scene_key": "core_mug_6faf1f04bde838e477f883dde7397db2/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "core_bowl_2c1df84ec01cea4e525b133235812833",
+"scene_key": "core_bowl_2c1df84ec01cea4e525b133235812833/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "sem_Ball_f196e79de92e2e52fdddc29bb3e72366",
+"scene_key": "sem_Ball_f196e79de92e2e52fdddc29bb3e72366/tabletop_ur10e/scale008_pose006_0"
+},
+{
+"object": "core_bottle_2722bec1947151b86e22e2d2f64c8cef",
+"scene_key": "core_bottle_2722bec1947151b86e22e2d2f64c8cef/tabletop_ur10e/scale012_pose007_0"
+},
+{
+"object": "sem_Vase_4835bb37072cb5dafc23d64476f7d890",
+"scene_key": "sem_Vase_4835bb37072cb5dafc23d64476f7d890/tabletop_ur10e/scale006_pose004_0"
+},
+{
+"object": "mujoco_Hasbro_Monopoly_Hotels_Game",
+"scene_key": "mujoco_Hasbro_Monopoly_Hotels_Game/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "ddg_gd_light_bulb_poisson_001",
+"scene_key": "ddg_gd_light_bulb_poisson_001/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "ddg_kit_KoalaCandy",
+"scene_key": "ddg_kit_KoalaCandy/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_FileCabinet_aeb08906aded103ad61a2ba1b75d9b90",
+"scene_key": "sem_FileCabinet_aeb08906aded103ad61a2ba1b75d9b90/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "core_can_e532d6bd597d4e91e3e4737f6033f0f8",
+"scene_key": "core_can_e532d6bd597d4e91e3e4737f6033f0f8/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_VideoGameConsole_5859f4761ea7c81c1dcbf3da3b253cbe",
+"scene_key": "sem_VideoGameConsole_5859f4761ea7c81c1dcbf3da3b253cbe/tabletop_ur10e/scale010_pose004_0"
+},
+{
+"object": "core_jar_4c2eb778f9b6485480067e3fdc6db24c",
+"scene_key": "core_jar_4c2eb778f9b6485480067e3fdc6db24c/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "mujoco_Mad_Gab_Refresh_Card_Game",
+"scene_key": "mujoco_Mad_Gab_Refresh_Card_Game/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "mujoco_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count",
+"scene_key": "mujoco_INTERNATIONAL_PAPER_Willamette_4_Brown_Bag_500Count/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "mujoco_Pass_The_Popcorn_Movie_Guessing_Game",
+"scene_key": "mujoco_Pass_The_Popcorn_Movie_Guessing_Game/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "sem_Ashtray_d0c87fd06d3b89faace168ea8ead0df6",
+"scene_key": "sem_Ashtray_d0c87fd06d3b89faace168ea8ead0df6/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "core_bottle_dc2c07ff617d1da0197a35146ee825cd",
+"scene_key": "core_bottle_dc2c07ff617d1da0197a35146ee825cd/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "core_jar_edb8e199485be4e968747a7f12307bdb",
+"scene_key": "core_jar_edb8e199485be4e968747a7f12307bdb/tabletop_ur10e/scale010_pose006_0"
+},
+{
+"object": "sem_FileCabinet_1f13b46cbc4741b3c2e50348f23d3d",
+"scene_key": "sem_FileCabinet_1f13b46cbc4741b3c2e50348f23d3d/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "mujoco_Folic_Acid",
+"scene_key": "mujoco_Folic_Acid/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "core_jar_ccfa627a398599ebde03ab2a27ba7531",
+"scene_key": "core_jar_ccfa627a398599ebde03ab2a27ba7531/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "core_bottle_2fa757f584a3be31a7ceedb2540a32b0",
+"scene_key": "core_bottle_2fa757f584a3be31a7ceedb2540a32b0/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "sem_LightBulb_9bc4b599b49a85f4cb1aec8410bf4988",
+"scene_key": "sem_LightBulb_9bc4b599b49a85f4cb1aec8410bf4988/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "core_can_c4bce3dc44c66630282f9cd3f45eaa2a",
+"scene_key": "core_can_c4bce3dc44c66630282f9cd3f45eaa2a/tabletop_ur10e/scale012_pose006_0"
+},
+{
+"object": "sem_Camera_e5d95c0741290bec53d4d4a926d0dadc",
+"scene_key": "sem_Camera_e5d95c0741290bec53d4d4a926d0dadc/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "core_can_a70947df1f1490c2a81ec39fd9664e9b",
+"scene_key": "core_can_a70947df1f1490c2a81ec39fd9664e9b/tabletop_ur10e/scale010_pose007_0"
+},
+{
+"object": "sem_Calculator_3b947648cfb77c92dc6e31f308657eca",
+"scene_key": "sem_Calculator_3b947648cfb77c92dc6e31f308657eca/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "sem_Piano_bb8acb49245b8f6ee8a1430c80ad4e85",
+"scene_key": "sem_Piano_bb8acb49245b8f6ee8a1430c80ad4e85/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "sem_Camera_936a458fdb8eb12171dc2053392a6e6f",
+"scene_key": "sem_Camera_936a458fdb8eb12171dc2053392a6e6f/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "core_jar_e57f67c2da68cf1d6bc258c0f0234be0",
+"scene_key": "core_jar_e57f67c2da68cf1d6bc258c0f0234be0/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "sem_FoodItem_83ad6d967cf17a985b3b9c71b7cfbff7",
+"scene_key": "sem_FoodItem_83ad6d967cf17a985b3b9c71b7cfbff7/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "core_pillow_59657437cc799e51616f4ad120b6332a",
+"scene_key": "core_pillow_59657437cc799e51616f4ad120b6332a/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "core_pillow_84693d928bbec2d18b14db3b83de9ff",
+"scene_key": "core_pillow_84693d928bbec2d18b14db3b83de9ff/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "core_jar_256b66cbb1bd1c88b2cb9dff9356b165",
+"scene_key": "core_jar_256b66cbb1bd1c88b2cb9dff9356b165/tabletop_ur10e/scale010_pose006_0"
+},
+{
+"object": "sem_Camera_63ecda62ba75d0bc1431e1988c14c42c",
+"scene_key": "sem_Camera_63ecda62ba75d0bc1431e1988c14c42c/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "sem_ToyFigure_21272fcb242e4e85a4312dac0c0f355c",
+"scene_key": "sem_ToyFigure_21272fcb242e4e85a4312dac0c0f355c/tabletop_ur10e/scale006_pose006_0"
+},
+{
+"object": "ddg_gd_can_poisson_006",
+"scene_key": "ddg_gd_can_poisson_006/tabletop_ur10e/scale010_pose008_0"
+},
+{
+"object": "sem_Vase_60c012f2258eb9e4cf4fab2fd9a8c84d",
+"scene_key": "sem_Vase_60c012f2258eb9e4cf4fab2fd9a8c84d/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "sem_Bottle_d9aee510fd5e8afb93fb5c975e8de2b7",
+"scene_key": "sem_Bottle_d9aee510fd5e8afb93fb5c975e8de2b7/tabletop_ur10e/scale010_pose008_0"
+},
+{
+"object": "core_bowl_571f294b5ab7e47a5517442d05421cb",
+"scene_key": "core_bowl_571f294b5ab7e47a5517442d05421cb/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "ddg_gd_tetra_pak_poisson_000",
+"scene_key": "ddg_gd_tetra_pak_poisson_000/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "core_can_bf974687b678c66e93fb5c975e8de2b7",
+"scene_key": "core_can_bf974687b678c66e93fb5c975e8de2b7/tabletop_ur10e/scale012_pose005_0"
+},
+{
+"object": "core_mug_1305b9266d38eb4d9f818dd0aa1a251",
+"scene_key": "core_mug_1305b9266d38eb4d9f818dd0aa1a251/tabletop_ur10e/scale006_pose007_0"
+},
+{
+"object": "core_bottle_632a0bd7869cb763780bbc8616cb15f8",
+"scene_key": "core_bottle_632a0bd7869cb763780bbc8616cb15f8/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "sem_Clock_758885e4c4e7bdd8e08074c1d83054ad",
+"scene_key": "sem_Clock_758885e4c4e7bdd8e08074c1d83054ad/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "sem_MilkCarton_49bdc6bed3f233eb3789e8d58849675c",
+"scene_key": "sem_MilkCarton_49bdc6bed3f233eb3789e8d58849675c/tabletop_ur10e/scale006_pose004_0"
+},
+{
+"object": "sem_ToiletPaper_accc37f006d7409d42428dd46e9da8",
+"scene_key": "sem_ToiletPaper_accc37f006d7409d42428dd46e9da8/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "sem_RubiksCube_1e3d89eb3b5427053bdd31f1cd9eec98",
+"scene_key": "sem_RubiksCube_1e3d89eb3b5427053bdd31f1cd9eec98/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "sem_SodaCan_78939da1226d966d980e03c389be3f7c",
+"scene_key": "sem_SodaCan_78939da1226d966d980e03c389be3f7c/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "core_camera_fb3b5fae94f7b02a3b269928487f8a4c",
+"scene_key": "core_camera_fb3b5fae94f7b02a3b269928487f8a4c/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "mujoco_STACKING_RING",
+"scene_key": "mujoco_STACKING_RING/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "mujoco_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz",
+"scene_key": "mujoco_Nescafe_Tasters_Choice_Instant_Coffee_Decaf_House_Blend_Light_7_oz/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "core_jar_e1835d106d89c69ef1f3019850abf317",
+"scene_key": "core_jar_e1835d106d89c69ef1f3019850abf317/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "core_mug_e6dedae946ff5265a95fb60c110b25aa",
+"scene_key": "core_mug_e6dedae946ff5265a95fb60c110b25aa/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "sem_ToiletPaper_a83653ad2ba5562b713429629f985672",
+"scene_key": "sem_ToiletPaper_a83653ad2ba5562b713429629f985672/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "core_mug_ea33ad442b032208d778b73d04298f62",
+"scene_key": "core_mug_ea33ad442b032208d778b73d04298f62/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "mujoco_Gigabyte_GA970AUD3P_10_Motherboard_ATX_Socket_AM3",
+"scene_key": "mujoco_Gigabyte_GA970AUD3P_10_Motherboard_ATX_Socket_AM3/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "core_jar_a96b8f654eee2e8168825f3d0ad04fa",
+"scene_key": "core_jar_a96b8f654eee2e8168825f3d0ad04fa/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "core_bottle_81bbf3134d1ca27a58449bd132e3a3fe",
+"scene_key": "core_bottle_81bbf3134d1ca27a58449bd132e3a3fe/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "ddg_ycb_077_rubiks_cube",
+"scene_key": "ddg_ycb_077_rubiks_cube/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "sem_Truck_d24588a6a6b27f4f914c738e92faad58",
+"scene_key": "sem_Truck_d24588a6a6b27f4f914c738e92faad58/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "sem_Calculator_67efcc256e30d958873597b3ac6495b5",
+"scene_key": "sem_Calculator_67efcc256e30d958873597b3ac6495b5/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "sem_Ipod_39318878f6e98ed2150eaf7a4ddb8bec",
+"scene_key": "sem_Ipod_39318878f6e98ed2150eaf7a4ddb8bec/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "ddg_gd_box_poisson_015",
+"scene_key": "ddg_gd_box_poisson_015/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "core_jar_133dc38c1316d9515dc3653f8341633a",
+"scene_key": "core_jar_133dc38c1316d9515dc3653f8341633a/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "mujoco_Brother_Printing_Cartridge_PC501",
+"scene_key": "mujoco_Brother_Printing_Cartridge_PC501/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "core_can_6f2c06bb129e52be63ed57e35c972b4b",
+"scene_key": "core_can_6f2c06bb129e52be63ed57e35c972b4b/tabletop_ur10e/scale012_pose006_0"
+},
+{
+"object": "mujoco_Arm_Hammer_Diaper_Pail_Refills_12_Pack_MFWkmoweejt",
+"scene_key": "mujoco_Arm_Hammer_Diaper_Pail_Refills_12_Pack_MFWkmoweejt/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "core_mug_9961ccbafd59cb03fe36eb2ab5fa00e0",
+"scene_key": "core_mug_9961ccbafd59cb03fe36eb2ab5fa00e0/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "sem_Camera_7077395b60bf4aeb3cb44973ec1ffcf8",
+"scene_key": "sem_Camera_7077395b60bf4aeb3cb44973ec1ffcf8/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "ddg_gd_donut_poisson_004",
+"scene_key": "ddg_gd_donut_poisson_004/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "core_camera_4852ee95e7bd8556c60396a717ba6c7e",
+"scene_key": "core_camera_4852ee95e7bd8556c60396a717ba6c7e/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "core_camera_936a458fdb8eb12171dc2053392a6e6f",
+"scene_key": "core_camera_936a458fdb8eb12171dc2053392a6e6f/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "core_can_efa4c58192cc5cf89e7b86262150f",
+"scene_key": "core_can_efa4c58192cc5cf89e7b86262150f/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "core_can_9effd38015b7e5ecc34b900bb2492e",
+"scene_key": "core_can_9effd38015b7e5ecc34b900bb2492e/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "sem_Calculator_67efcc256e30d958873597b3ac6495b5",
+"scene_key": "sem_Calculator_67efcc256e30d958873597b3ac6495b5/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "core_bottle_6e57c665a47d7d7730612f5c0ef21eb8",
+"scene_key": "core_bottle_6e57c665a47d7d7730612f5c0ef21eb8/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "sem_Vase_aa080060dcfd22b3265d1076b4b6c5c",
+"scene_key": "sem_Vase_aa080060dcfd22b3265d1076b4b6c5c/tabletop_ur10e/scale006_pose012_0"
+},
+{
+"object": "sem_DrinkingUtensil_ba10400c108e5c3f54e1b6f41fdd78a",
+"scene_key": "sem_DrinkingUtensil_ba10400c108e5c3f54e1b6f41fdd78a/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "ddg_gd_toilet_paper_poisson_006",
+"scene_key": "ddg_gd_toilet_paper_poisson_006/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "sem_RiceCooker_1f00a773e33908a3abb564bb0657e0d6",
+"scene_key": "sem_RiceCooker_1f00a773e33908a3abb564bb0657e0d6/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "mujoco_PINEAPPLE_MARACA_6_PCSSET",
+"scene_key": "mujoco_PINEAPPLE_MARACA_6_PCSSET/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "sem_Battery_3f16a24e0f77a392f7aa33a9774f16af",
+"scene_key": "sem_Battery_3f16a24e0f77a392f7aa33a9774f16af/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "core_bottle_bd50af3416f45348679a03fdc41e0266",
+"scene_key": "core_bottle_bd50af3416f45348679a03fdc41e0266/tabletop_ur10e/scale006_pose006_0"
+},
+{
+"object": "sem_Vase_9e7a60f4338bd4f382dcf870385fe09e",
+"scene_key": "sem_Vase_9e7a60f4338bd4f382dcf870385fe09e/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "core_bottle_40e5d2c6e9e9cbbf5cafd3b1501bc74",
+"scene_key": "core_bottle_40e5d2c6e9e9cbbf5cafd3b1501bc74/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "sem_Vase_4835bb37072cb5dafc23d64476f7d890",
+"scene_key": "sem_Vase_4835bb37072cb5dafc23d64476f7d890/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "sem_Calculator_3b947648cfb77c92dc6e31f308657eca",
+"scene_key": "sem_Calculator_3b947648cfb77c92dc6e31f308657eca/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "sem_DrinkingUtensil_ea33ad442b032208d778b73d04298f62",
+"scene_key": "sem_DrinkingUtensil_ea33ad442b032208d778b73d04298f62/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "core_bottle_fa452996a220dd49257c84a0e95a18b0",
+"scene_key": "core_bottle_fa452996a220dd49257c84a0e95a18b0/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "sem_Truck_d24588a6a6b27f4f914c738e92faad58",
+"scene_key": "sem_Truck_d24588a6a6b27f4f914c738e92faad58/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "mujoco_Crayola_Washable_Sidewalk_Chalk_16_pack_wDZECiw7J6s",
+"scene_key": "mujoco_Crayola_Washable_Sidewalk_Chalk_16_pack_wDZECiw7J6s/tabletop_ur10e/scale010_pose004_0"
+},
+{
+"object": "core_bottle_3999ca6a50ae47c876b38b4cbe0c74b7",
+"scene_key": "core_bottle_3999ca6a50ae47c876b38b4cbe0c74b7/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "core_bottle_97179a870ed9f12da452d8ffbbc0126",
+"scene_key": "core_bottle_97179a870ed9f12da452d8ffbbc0126/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "sem_SodaCan_d26241f55fe81e2b5c8e7963449f8577",
+"scene_key": "sem_SodaCan_d26241f55fe81e2b5c8e7963449f8577/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "sem_TableClock_8ac6b93f8d93c400923ef79fcb120ce8",
+"scene_key": "sem_TableClock_8ac6b93f8d93c400923ef79fcb120ce8/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "core_bottle_fdc47f5f8dff184830eaaf40a8a562c1",
+"scene_key": "core_bottle_fdc47f5f8dff184830eaaf40a8a562c1/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "sem_Radio_bcd74bede1defe392b67f63784d6db5b",
+"scene_key": "sem_Radio_bcd74bede1defe392b67f63784d6db5b/tabletop_ur10e/scale008_pose005_0"
+},
+{
+"object": "mujoco_Office_Depot_Dell_Series_5_Remanufactured_Ink_Cartridge_Black",
+"scene_key": "mujoco_Office_Depot_Dell_Series_5_Remanufactured_Ink_Cartridge_Black/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "core_jar_9669911986797a4584d1421a33bba279",
+"scene_key": "core_jar_9669911986797a4584d1421a33bba279/tabletop_ur10e/scale008_pose006_0"
+},
+{
+"object": "ddg_bigbird_nature_valley_crunchy_variety_pack",
+"scene_key": "ddg_bigbird_nature_valley_crunchy_variety_pack/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "sem_Piano_b0e9391ecbf7334c4383822c87ad59db",
+"scene_key": "sem_Piano_b0e9391ecbf7334c4383822c87ad59db/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "mujoco_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct",
+"scene_key": "mujoco_Jarrow_Formulas_Glucosamine_Hci_Mega_1000_100_ct/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "core_can_4cc3601af4a09418b459058f42771eff",
+"scene_key": "core_can_4cc3601af4a09418b459058f42771eff/tabletop_ur10e/scale012_pose006_0"
+},
+{
+"object": "core_bottle_ad33ed7da4ef1b1cca18d703b8006093",
+"scene_key": "core_bottle_ad33ed7da4ef1b1cca18d703b8006093/tabletop_ur10e/scale006_pose007_0"
+},
+{
+"object": "ddg_gd_jar_poisson_014",
+"scene_key": "ddg_gd_jar_poisson_014/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "ddg_gd_can_poisson_009",
+"scene_key": "ddg_gd_can_poisson_009/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "ddg_gd_starfruit_poisson_000",
+"scene_key": "ddg_gd_starfruit_poisson_000/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_FoodItem_83ad6d967cf17a985b3b9c71b7cfbff7",
+"scene_key": "sem_FoodItem_83ad6d967cf17a985b3b9c71b7cfbff7/tabletop_ur10e/scale010_pose004_0"
+},
+{
+"object": "sem_Bottle_48bacbf60318db537a0c402e1ca31f3",
+"scene_key": "sem_Bottle_48bacbf60318db537a0c402e1ca31f3/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_SodaCan_1b36df7ed7ddd974c538fbfc1e40dbe0",
+"scene_key": "sem_SodaCan_1b36df7ed7ddd974c538fbfc1e40dbe0/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "sem_ToyFigure_60c574a293b9f2014f60944ced2b5887",
+"scene_key": "sem_ToyFigure_60c574a293b9f2014f60944ced2b5887/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "ddg_gd_can_poisson_022",
+"scene_key": "ddg_gd_can_poisson_022/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "mujoco_QHPomegranate",
+"scene_key": "mujoco_QHPomegranate/tabletop_ur10e/scale006_pose006_0"
+},
+{
+"object": "sem_MilkCarton_6ea87d3f4498448b3571657dafc7119",
+"scene_key": "sem_MilkCarton_6ea87d3f4498448b3571657dafc7119/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "core_bottle_74e5ea1a783a5f5f533775ea6714a372",
+"scene_key": "core_bottle_74e5ea1a783a5f5f533775ea6714a372/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "sem_Vase_89b700544754787d5385ca988a40ed06",
+"scene_key": "sem_Vase_89b700544754787d5385ca988a40ed06/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "core_bottle_ba4b48d76eb79f7cf54e1b6f41fdd78a",
+"scene_key": "core_bottle_ba4b48d76eb79f7cf54e1b6f41fdd78a/tabletop_ur10e/scale012_pose007_0"
+},
+{
+"object": "sem_FileCabinet_6633b658534938ded02b906026bee536",
+"scene_key": "sem_FileCabinet_6633b658534938ded02b906026bee536/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "sem_FileCabinet_ee8c6bdd41cb2f04c56f78d9daf213b",
+"scene_key": "sem_FileCabinet_ee8c6bdd41cb2f04c56f78d9daf213b/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "mujoco_LEGO_City_Advent_Calendar",
+"scene_key": "mujoco_LEGO_City_Advent_Calendar/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "sem_FoodItem_b455ebfd4eeaa611a3f10d612f39bb6",
+"scene_key": "sem_FoodItem_b455ebfd4eeaa611a3f10d612f39bb6/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "sem_Clock_c154e48d36e44c179e8f28fdc2cf9ec9",
+"scene_key": "sem_Clock_c154e48d36e44c179e8f28fdc2cf9ec9/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "core_bottle_b13f6dc78d904e5c30612f5c0ef21eb8",
+"scene_key": "core_bottle_b13f6dc78d904e5c30612f5c0ef21eb8/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "sem_Blender_482ae495439fca7ef5afb395b99ae069",
+"scene_key": "sem_Blender_482ae495439fca7ef5afb395b99ae069/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "core_can_540cb2a72840ec1130612f5c0ef21eb8",
+"scene_key": "core_can_540cb2a72840ec1130612f5c0ef21eb8/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "core_jar_770df0065c50c19dd884646143528886",
+"scene_key": "core_jar_770df0065c50c19dd884646143528886/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "core_jar_c1ded06f2af01612a54fd40ef3a8dfd0",
+"scene_key": "core_jar_c1ded06f2af01612a54fd40ef3a8dfd0/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "core_jar_b20ca8a345790b03d3dad974dc098fa1",
+"scene_key": "core_jar_b20ca8a345790b03d3dad974dc098fa1/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "core_bottle_5ca994bd512be485db3bac7ad77ae88e",
+"scene_key": "core_bottle_5ca994bd512be485db3bac7ad77ae88e/tabletop_ur10e/scale006_pose007_0"
+},
+{
+"object": "core_bowl_e3d4d57aea714a88669ff09d7001bab6",
+"scene_key": "core_bowl_e3d4d57aea714a88669ff09d7001bab6/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "ddg_gd_toilet_paper_poisson_003",
+"scene_key": "ddg_gd_toilet_paper_poisson_003/tabletop_ur10e/scale012_pose006_0"
+},
+{
+"object": "core_mug_928a383f79698c3fb6d9bc28c8d8a2c4",
+"scene_key": "core_mug_928a383f79698c3fb6d9bc28c8d8a2c4/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "ddg_gd_dumpbell_poisson_000",
+"scene_key": "ddg_gd_dumpbell_poisson_000/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "ddg_kit_RuskWholemeal",
+"scene_key": "ddg_kit_RuskWholemeal/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "ddg_bigbird_spam",
+"scene_key": "ddg_bigbird_spam/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "sem_WallClock_e26485c0a14a90867903707764646db",
+"scene_key": "sem_WallClock_e26485c0a14a90867903707764646db/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "core_jar_39a8179c80a38ee130612f5c0ef21eb8",
+"scene_key": "core_jar_39a8179c80a38ee130612f5c0ef21eb8/tabletop_ur10e/scale012_pose007_0"
+},
+{
+"object": "core_bowl_7d7bdea515818eb844638317e9e4ff18",
+"scene_key": "core_bowl_7d7bdea515818eb844638317e9e4ff18/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "mujoco_Hyaluronic_Acid",
+"scene_key": "mujoco_Hyaluronic_Acid/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "core_jar_c1ded06f2af01612a54fd40ef3a8dfd0",
+"scene_key": "core_jar_c1ded06f2af01612a54fd40ef3a8dfd0/tabletop_ur10e/scale008_pose009_0"
+},
+{
+"object": "mujoco_JarroDophilusFOS_Value_Size",
+"scene_key": "mujoco_JarroDophilusFOS_Value_Size/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "sem_PillBottle_bb234652525a68498d969821a85884b2",
+"scene_key": "sem_PillBottle_bb234652525a68498d969821a85884b2/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "ddg_gd_soccer_ball_poisson_001",
+"scene_key": "ddg_gd_soccer_ball_poisson_001/tabletop_ur10e/scale010_pose004_0"
+},
+{
+"object": "core_jar_bcb86164cb709371377f115011370864",
+"scene_key": "core_jar_bcb86164cb709371377f115011370864/tabletop_ur10e/scale006_pose007_0"
+},
+{
+"object": "core_bottle_b1271f402910cf05cfdfe3f21f42a111",
+"scene_key": "core_bottle_b1271f402910cf05cfdfe3f21f42a111/tabletop_ur10e/scale012_pose005_0"
+},
+{
+"object": "sem_Rock_f7b2c1368b2c6f9a8b43e675a8d9c006",
+"scene_key": "sem_Rock_f7b2c1368b2c6f9a8b43e675a8d9c006/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "sem_Vase_1a8f9295b44b48895e8c5748ca5ef3ea",
+"scene_key": "sem_Vase_1a8f9295b44b48895e8c5748ca5ef3ea/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "mujoco_Beetle_Adventure_Racing_Nintendo_64",
+"scene_key": "mujoco_Beetle_Adventure_Racing_Nintendo_64/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "core_can_f4ad0b7f82c36051f51f77a6d7299806",
+"scene_key": "core_can_f4ad0b7f82c36051f51f77a6d7299806/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "ddg_kit_ChocMarshmallows",
+"scene_key": "ddg_kit_ChocMarshmallows/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "sem_Book_20dec770602a8ac2331999dc8823fe0d",
+"scene_key": "sem_Book_20dec770602a8ac2331999dc8823fe0d/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "ddg_gd_camera_poisson_015",
+"scene_key": "ddg_gd_camera_poisson_015/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "mujoco_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97",
+"scene_key": "mujoco_Gigabyte_GAZ97XSLI_10_motherboard_ATX_LGA1150_Socket_Z97/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "core_bowl_188281000adddc9977981b941eb4f5d1",
+"scene_key": "core_bowl_188281000adddc9977981b941eb4f5d1/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "mujoco_Cootie_Game_tDhURNbfU5J",
+"scene_key": "mujoco_Cootie_Game_tDhURNbfU5J/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "mujoco_Lactoferrin",
+"scene_key": "mujoco_Lactoferrin/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_SodaCan_6675068ac1eeb8197db8a665a329f99",
+"scene_key": "sem_SodaCan_6675068ac1eeb8197db8a665a329f99/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "ddg_gd_toaster_poisson_010",
+"scene_key": "ddg_gd_toaster_poisson_010/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "ddg_gd_light_bulb_poisson_001",
+"scene_key": "ddg_gd_light_bulb_poisson_001/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "core_jar_41fcf346a7b3ceb75337cdc4b758988c",
+"scene_key": "core_jar_41fcf346a7b3ceb75337cdc4b758988c/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "mujoco_NattoMax",
+"scene_key": "mujoco_NattoMax/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "sem_FileCabinet_aeb08906aded103ad61a2ba1b75d9b90",
+"scene_key": "sem_FileCabinet_aeb08906aded103ad61a2ba1b75d9b90/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "core_can_926d45845c2be919f8cd8f969312dc1",
+"scene_key": "core_can_926d45845c2be919f8cd8f969312dc1/tabletop_ur10e/scale008_pose007_0"
+},
+{
+"object": "sem_ComputerMouse_90490d506c40f6b344ebbc705ad8c07",
+"scene_key": "sem_ComputerMouse_90490d506c40f6b344ebbc705ad8c07/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "sem_Book_9ee8ceff2bd0f1adb3480c13e0bfacdf",
+"scene_key": "sem_Book_9ee8ceff2bd0f1adb3480c13e0bfacdf/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "sem_DrinkingUtensil_ae1c602ee16282224212ff51b27f0221",
+"scene_key": "sem_DrinkingUtensil_ae1c602ee16282224212ff51b27f0221/tabletop_ur10e/scale008_pose005_0"
+},
+{
+"object": "mujoco_Epson_LabelWorks_LC4WBN9_Tape_reel_labels_047_x_295_Roll_Black_on_White",
+"scene_key": "mujoco_Epson_LabelWorks_LC4WBN9_Tape_reel_labels_047_x_295_Roll_Black_on_White/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "mujoco_Twinlab_Premium_Creatine_Fuel_Powder",
+"scene_key": "mujoco_Twinlab_Premium_Creatine_Fuel_Powder/tabletop_ur10e/scale012_pose007_0"
+},
+{
+"object": "core_can_990a058fbb51c655d773a8448a79e14c",
+"scene_key": "core_can_990a058fbb51c655d773a8448a79e14c/tabletop_ur10e/scale010_pose007_0"
+},
+{
+"object": "sem_SodaCan_295be2a01cb9f29b716714dd1fd945b7",
+"scene_key": "sem_SodaCan_295be2a01cb9f29b716714dd1fd945b7/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "mujoco_Saccharomyces_Boulardii_MOS_Value_Size",
+"scene_key": "mujoco_Saccharomyces_Boulardii_MOS_Value_Size/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "core_jar_739f97be019f29f2da5969872c705114",
+"scene_key": "core_jar_739f97be019f29f2da5969872c705114/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "ddg_gd_camera_poisson_014",
+"scene_key": "ddg_gd_camera_poisson_014/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "sem_FileCabinet_a44d92a6431afe516d907bf61e189d9d",
+"scene_key": "sem_FileCabinet_a44d92a6431afe516d907bf61e189d9d/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "ddg_gd_can_poisson_018",
+"scene_key": "ddg_gd_can_poisson_018/tabletop_ur10e/scale010_pose008_0"
+},
+{
+"object": "sem_Vase_3e8fd535abd8381c614be109ad41e469",
+"scene_key": "sem_Vase_3e8fd535abd8381c614be109ad41e469/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "core_jar_9f62aed6538caca130612f5c0ef21eb8",
+"scene_key": "core_jar_9f62aed6538caca130612f5c0ef21eb8/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_DrinkingUtensil_1ea9ea99ac8ed233bf355ac8109b9988",
+"scene_key": "sem_DrinkingUtensil_1ea9ea99ac8ed233bf355ac8109b9988/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "mujoco_Paul_Frank_Dot_Lunch_Box",
+"scene_key": "mujoco_Paul_Frank_Dot_Lunch_Box/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "core_mug_d75af64aa166c24eacbe2257d0988c9c",
+"scene_key": "core_mug_d75af64aa166c24eacbe2257d0988c9c/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "sem_DrinkingUtensil_b46a9c35587a38f6e87dab59b7e63362",
+"scene_key": "sem_DrinkingUtensil_b46a9c35587a38f6e87dab59b7e63362/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "sem_RubiksCube_4e7bd9db2fcdc6e01a092e6cb6aaf525",
+"scene_key": "sem_RubiksCube_4e7bd9db2fcdc6e01a092e6cb6aaf525/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "sem_Car_f9c2bc7b4ef896e7146ff63b4c7525d9",
+"scene_key": "sem_Car_f9c2bc7b4ef896e7146ff63b4c7525d9/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "core_pillow_b5cb58fb099204fea5c423249b53dbc4",
+"scene_key": "core_pillow_b5cb58fb099204fea5c423249b53dbc4/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "mujoco_FemDophilus",
+"scene_key": "mujoco_FemDophilus/tabletop_ur10e/scale010_pose004_0"
+},
+{
+"object": "sem_CerealBox_c87bb65a628e0ca6a4bd57b754f4233c",
+"scene_key": "sem_CerealBox_c87bb65a628e0ca6a4bd57b754f4233c/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "sem_Book_78ef41d48086be4f578beb8a8c25e433",
+"scene_key": "sem_Book_78ef41d48086be4f578beb8a8c25e433/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "core_bottle_545225eda0e900f6d4a7a4c7d6e9bdc3",
+"scene_key": "core_bottle_545225eda0e900f6d4a7a4c7d6e9bdc3/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "sem_FileCabinet_aeb08906aded103ad61a2ba1b75d9b90",
+"scene_key": "sem_FileCabinet_aeb08906aded103ad61a2ba1b75d9b90/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "sem_TableClock_299832be465f4037485059ffe7a2f9c7",
+"scene_key": "sem_TableClock_299832be465f4037485059ffe7a2f9c7/tabletop_ur10e/scale008_pose005_0"
+},
+{
+"object": "core_mug_cc5b14ef71e87e9165ba97214ebde03",
+"scene_key": "core_mug_cc5b14ef71e87e9165ba97214ebde03/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "core_mug_6faf1f04bde838e477f883dde7397db2",
+"scene_key": "core_mug_6faf1f04bde838e477f883dde7397db2/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "ddg_gd_tetra_pak_poisson_018",
+"scene_key": "ddg_gd_tetra_pak_poisson_018/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "ddg_gd_detergent_bottle_poisson_003",
+"scene_key": "ddg_gd_detergent_bottle_poisson_003/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "core_bottle_bb46957091f2a282cfdfe3f21f42a111",
+"scene_key": "core_bottle_bb46957091f2a282cfdfe3f21f42a111/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "mujoco_Perricone_MD_Skin_Clear_Supplements",
+"scene_key": "mujoco_Perricone_MD_Skin_Clear_Supplements/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "mujoco_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count",
+"scene_key": "mujoco_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "sem_Battery_97b155f96786759b958a354b52bd2c29",
+"scene_key": "sem_Battery_97b155f96786759b958a354b52bd2c29/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "mujoco_Asus_X99Deluxe_Motherboard_ATX_LGA2011v3_Socket",
+"scene_key": "mujoco_Asus_X99Deluxe_Motherboard_ATX_LGA2011v3_Socket/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "mujoco_Theanine",
+"scene_key": "mujoco_Theanine/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "core_camera_4852ee95e7bd8556c60396a717ba6c7e",
+"scene_key": "core_camera_4852ee95e7bd8556c60396a717ba6c7e/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "core_jar_85b34acd44a557ae21072d05c97a5e0a",
+"scene_key": "core_jar_85b34acd44a557ae21072d05c97a5e0a/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "sem_Battery_f2883772a1ff21098dd1225ea7af8125",
+"scene_key": "sem_Battery_f2883772a1ff21098dd1225ea7af8125/tabletop_ur10e/scale008_pose008_0"
+},
+{
+"object": "mujoco_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket",
+"scene_key": "mujoco_Asus_Z87PRO_Motherboard_ATX_LGA1150_Socket/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "ddg_gd_camera_poisson_011",
+"scene_key": "ddg_gd_camera_poisson_011/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "ddg_ycb_065_e_cups",
+"scene_key": "ddg_ycb_065_e_cups/tabletop_ur10e/scale006_pose006_0"
+},
+{
+"object": "sem_SodaCan_1b36df7ed7ddd974c538fbfc1e40dbe0",
+"scene_key": "sem_SodaCan_1b36df7ed7ddd974c538fbfc1e40dbe0/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "ddg_gd_tetra_pak_poisson_020",
+"scene_key": "ddg_gd_tetra_pak_poisson_020/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "sem_MediaDiscs_51a2c9c96543daa5d4045ce83dea1af",
+"scene_key": "sem_MediaDiscs_51a2c9c96543daa5d4045ce83dea1af/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "sem_FoodItem_d137d3758ef6dc79b555b36aa2b7304a",
+"scene_key": "sem_FoodItem_d137d3758ef6dc79b555b36aa2b7304a/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "core_jar_6596b4cadc29d0448de42fc1392c2139",
+"scene_key": "core_jar_6596b4cadc29d0448de42fc1392c2139/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "mujoco_Perricone_MD_Super_Berry_Powder_with_Acai_Supplements",
+"scene_key": "mujoco_Perricone_MD_Super_Berry_Powder_with_Acai_Supplements/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "core_bottle_cf7a79435eb5b1bdb0be98650cd7fb6f",
+"scene_key": "core_bottle_cf7a79435eb5b1bdb0be98650cd7fb6f/tabletop_ur10e/scale008_pose005_0"
+},
+{
+"object": "core_bottle_10f709cecfbb8d59c2536abb1e8e5eab",
+"scene_key": "core_bottle_10f709cecfbb8d59c2536abb1e8e5eab/tabletop_ur10e/scale010_pose008_0"
+},
+{
+"object": "core_jar_56f7b662be65b7824725f67267e31c89",
+"scene_key": "core_jar_56f7b662be65b7824725f67267e31c89/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "mujoco_Paul_Frank_Dot_Lunch_Box",
+"scene_key": "mujoco_Paul_Frank_Dot_Lunch_Box/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "core_jar_39a8179c80a38ee130612f5c0ef21eb8",
+"scene_key": "core_jar_39a8179c80a38ee130612f5c0ef21eb8/tabletop_ur10e/scale008_pose005_0"
+},
+{
+"object": "mujoco_Horse_Dreams_Pencil_Case",
+"scene_key": "mujoco_Horse_Dreams_Pencil_Case/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "mujoco_JBL_Charge_Speaker_portable_wireless_wired_Green",
+"scene_key": "mujoco_JBL_Charge_Speaker_portable_wireless_wired_Green/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "core_jar_a84361eb6d9f55d99d3d767e1bc88d65",
+"scene_key": "core_jar_a84361eb6d9f55d99d3d767e1bc88d65/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "ddg_gd_tetra_pak_poisson_003",
+"scene_key": "ddg_gd_tetra_pak_poisson_003/tabletop_ur10e/scale010_pose004_0"
+},
+{
+"object": "sem_Pillow_bb720e7949efc9abe4406b3bf37e6ffe",
+"scene_key": "sem_Pillow_bb720e7949efc9abe4406b3bf37e6ffe/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "core_camera_6ed69b00b4632b6e07718ee10b83e10",
+"scene_key": "core_camera_6ed69b00b4632b6e07718ee10b83e10/tabletop_ur10e/scale008_pose006_0"
+},
+{
+"object": "ddg_gd_tetra_pak_poisson_024",
+"scene_key": "ddg_gd_tetra_pak_poisson_024/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "mujoco_Digital_Camo_Double_Decker_Lunch_Bag",
+"scene_key": "mujoco_Digital_Camo_Double_Decker_Lunch_Bag/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "ddg_gd_jar_poisson_019",
+"scene_key": "ddg_gd_jar_poisson_019/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "ddg_gd_mug_new_poisson_001",
+"scene_key": "ddg_gd_mug_new_poisson_001/tabletop_ur10e/scale010_pose008_0"
+},
+{
+"object": "core_can_fd40fa8939f5f832ae1aa888dd691e79",
+"scene_key": "core_can_fd40fa8939f5f832ae1aa888dd691e79/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "core_bottle_ab5ca2f648a9daa1b5ad628041310f96",
+"scene_key": "core_bottle_ab5ca2f648a9daa1b5ad628041310f96/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "sem_WallClock_de988e19f0a6fa1749c34f2eb33d9b8d",
+"scene_key": "sem_WallClock_de988e19f0a6fa1749c34f2eb33d9b8d/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "core_can_b1980d6743b7a98c12a47018402419a2",
+"scene_key": "core_can_b1980d6743b7a98c12a47018402419a2/tabletop_ur10e/scale008_pose007_0"
+},
+{
+"object": "core_can_9effd38015b7e5ecc34b900bb2492e",
+"scene_key": "core_can_9effd38015b7e5ecc34b900bb2492e/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "core_can_a70947df1f1490c2a81ec39fd9664e9b",
+"scene_key": "core_can_a70947df1f1490c2a81ec39fd9664e9b/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "core_jar_24f615dd07dab76cc6040c0e6de6a84d",
+"scene_key": "core_jar_24f615dd07dab76cc6040c0e6de6a84d/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "core_mug_1dd8290a154f4b1534a8988fdcee4fde",
+"scene_key": "core_mug_1dd8290a154f4b1534a8988fdcee4fde/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "ddg_kit_ChoppedTomatoes",
+"scene_key": "ddg_kit_ChoppedTomatoes/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "mujoco_Perricone_MD_Skin_Clear_Supplements",
+"scene_key": "mujoco_Perricone_MD_Skin_Clear_Supplements/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "core_mug_659192a6ba300f1f4293529704725d98",
+"scene_key": "core_mug_659192a6ba300f1f4293529704725d98/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "sem_DrinkingUtensil_f23a544c04e2f5ccb50d0c6a0c254040",
+"scene_key": "sem_DrinkingUtensil_f23a544c04e2f5ccb50d0c6a0c254040/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "core_jar_8f0c5b50ea07f88e59c1c78579056df",
+"scene_key": "core_jar_8f0c5b50ea07f88e59c1c78579056df/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "ddg_gd_toilet_paper_poisson_007",
+"scene_key": "ddg_gd_toilet_paper_poisson_007/tabletop_ur10e/scale006_pose006_0"
+},
+{
+"object": "sem_Truck_d24588a6a6b27f4f914c738e92faad58",
+"scene_key": "sem_Truck_d24588a6a6b27f4f914c738e92faad58/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "core_jar_7c1303d3a19a1cef51f77a6d7299806",
+"scene_key": "core_jar_7c1303d3a19a1cef51f77a6d7299806/tabletop_ur10e/scale008_pose007_0"
+},
+{
+"object": "sem_Vase_d6b6a7a860cfeeda2f2318fdd66be40a",
+"scene_key": "sem_Vase_d6b6a7a860cfeeda2f2318fdd66be40a/tabletop_ur10e/scale008_pose010_0"
+},
+{
+"object": "mujoco_Ortho_Forward_Facing_QCaor9ImJ2G",
+"scene_key": "mujoco_Ortho_Forward_Facing_QCaor9ImJ2G/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "core_camera_9726bf2b38d817eab169d2793795b997",
+"scene_key": "core_camera_9726bf2b38d817eab169d2793795b997/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "ddg_gd_camera_poisson_003",
+"scene_key": "ddg_gd_camera_poisson_003/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "ddg_gd_toilet_paper_poisson_002",
+"scene_key": "ddg_gd_toilet_paper_poisson_002/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "core_jar_e4bd6dda8d29106ca16af3198c99de08",
+"scene_key": "core_jar_e4bd6dda8d29106ca16af3198c99de08/tabletop_ur10e/scale010_pose007_0"
+},
+{
+"object": "sem_RubiksCube_cdda3ea70d829d5baa9ba8e71ae84fd3",
+"scene_key": "sem_RubiksCube_cdda3ea70d829d5baa9ba8e71ae84fd3/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "sem_Book_4e0eab530e900d09bcbccbbd6200163",
+"scene_key": "sem_Book_4e0eab530e900d09bcbccbbd6200163/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "ddg_bigbird_campbells_soup_at_hand_creamy_tomato",
+"scene_key": "ddg_bigbird_campbells_soup_at_hand_creamy_tomato/tabletop_ur10e/scale008_pose006_0"
+},
+{
+"object": "core_mug_9fc96d41ec7a66a6a159545213d74ea",
+"scene_key": "core_mug_9fc96d41ec7a66a6a159545213d74ea/tabletop_ur10e/scale008_pose005_0"
+},
+{
+"object": "sem_Hat_78ffdd0f1440161ca7591d4119c4254f",
+"scene_key": "sem_Hat_78ffdd0f1440161ca7591d4119c4254f/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "sem_Piano_a2dcfb6f77a72be8a2b299c40b68f70c",
+"scene_key": "sem_Piano_a2dcfb6f77a72be8a2b299c40b68f70c/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "core_can_10c9a321485711a88051229d056d81db",
+"scene_key": "core_can_10c9a321485711a88051229d056d81db/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "ddg_gd_pitcher_poisson_005",
+"scene_key": "ddg_gd_pitcher_poisson_005/tabletop_ur10e/scale006_pose006_0"
+},
+{
+"object": "ddg_gd_tetra_pak_poisson_020",
+"scene_key": "ddg_gd_tetra_pak_poisson_020/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_TableClock_c9dd71db5e6713937d0fed3563de13d",
+"scene_key": "sem_TableClock_c9dd71db5e6713937d0fed3563de13d/tabletop_ur10e/scale010_pose004_0"
+},
+{
+"object": "mujoco_Ecoforms_Plant_Container_GP16AMOCHA",
+"scene_key": "mujoco_Ecoforms_Plant_Container_GP16AMOCHA/tabletop_ur10e/scale008_pose006_0"
+},
+{
+"object": "sem_VideoGameConsole_49ba4f628a955bf03742135a31826a22",
+"scene_key": "sem_VideoGameConsole_49ba4f628a955bf03742135a31826a22/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "sem_Camera_4b99c1df215aa8e0fb1dc300162ac931",
+"scene_key": "sem_Camera_4b99c1df215aa8e0fb1dc300162ac931/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "ddg_gd_egg_poisson_012",
+"scene_key": "ddg_gd_egg_poisson_012/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "core_camera_ec28a64bdf9501161bfbba8a5defb02",
+"scene_key": "core_camera_ec28a64bdf9501161bfbba8a5defb02/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "sem_VideoGameConsole_34fbbfd72d2ff245a22181eaae22bac2",
+"scene_key": "sem_VideoGameConsole_34fbbfd72d2ff245a22181eaae22bac2/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "ddg_gd_camera_poisson_015",
+"scene_key": "ddg_gd_camera_poisson_015/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "sem_Clock_f13269cf1c50893d2ea98d69e91ba870",
+"scene_key": "sem_Clock_f13269cf1c50893d2ea98d69e91ba870/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "ddg_bigbird_nice_honey_roasted_almonds",
+"scene_key": "ddg_bigbird_nice_honey_roasted_almonds/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "core_bottle_523cddb320608c09a37f3fc191551700",
+"scene_key": "core_bottle_523cddb320608c09a37f3fc191551700/tabletop_ur10e/scale006_pose008_0"
+},
+{
+"object": "core_jar_41fcf346a7b3ceb75337cdc4b758988c",
+"scene_key": "core_jar_41fcf346a7b3ceb75337cdc4b758988c/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "sem_TableClock_1d5a354ee3e977d7ce57d3de4658a486",
+"scene_key": "sem_TableClock_1d5a354ee3e977d7ce57d3de4658a486/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "ddg_kit_BlueSaltCube",
+"scene_key": "ddg_kit_BlueSaltCube/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "sem_Bus_e299444f1a4c7457fa9ee9b3a7eba069",
+"scene_key": "sem_Bus_e299444f1a4c7457fa9ee9b3a7eba069/tabletop_ur10e/scale008_pose005_0"
+},
+{
+"object": "core_jar_4a53c4af240c562537048583edf8ef2c",
+"scene_key": "core_jar_4a53c4af240c562537048583edf8ef2c/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "mujoco_Tetris_Link_Game",
+"scene_key": "mujoco_Tetris_Link_Game/tabletop_ur10e/scale010_pose004_0"
+},
+{
+"object": "core_bottle_74e5ea1a783a5f5f533775ea6714a372",
+"scene_key": "core_bottle_74e5ea1a783a5f5f533775ea6714a372/tabletop_ur10e/scale006_pose008_0"
+},
+{
+"object": "core_cellphone_e8345991892118949a3de19de0ca67aa",
+"scene_key": "core_cellphone_e8345991892118949a3de19de0ca67aa/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "core_can_e8c446c352b84189bc8d62498ee8e85f",
+"scene_key": "core_can_e8c446c352b84189bc8d62498ee8e85f/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "ddg_bigbird_nature_valley_sweet_and_salty_nut_peanut",
+"scene_key": "ddg_bigbird_nature_valley_sweet_and_salty_nut_peanut/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "sem_Bottle_6642f712146b65d959aed18156aac466",
+"scene_key": "sem_Bottle_6642f712146b65d959aed18156aac466/tabletop_ur10e/scale012_pose007_0"
+},
+{
+"object": "core_mug_4b8b10d03552e0891898dfa8eb8eefff",
+"scene_key": "core_mug_4b8b10d03552e0891898dfa8eb8eefff/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "ddg_gd_can_poisson_012",
+"scene_key": "ddg_gd_can_poisson_012/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "sem_MilkCarton_e403646bb3e1e75850e961cdc6fb5c30",
+"scene_key": "sem_MilkCarton_e403646bb3e1e75850e961cdc6fb5c30/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "core_mug_659192a6ba300f1f4293529704725d98",
+"scene_key": "core_mug_659192a6ba300f1f4293529704725d98/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "ddg_gd_jar_poisson_019",
+"scene_key": "ddg_gd_jar_poisson_019/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "sem_ToyFigure_2936cf91218a53dee04e4d5188c661b9",
+"scene_key": "sem_ToyFigure_2936cf91218a53dee04e4d5188c661b9/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "mujoco_Canon_Ink_Cartridge_Green_6",
+"scene_key": "mujoco_Canon_Ink_Cartridge_Green_6/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "sem_RubiksCube_4e9447dfd2b56527fc7a8e315c9ddc8",
+"scene_key": "sem_RubiksCube_4e9447dfd2b56527fc7a8e315c9ddc8/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "ddg_bigbird_krylon_short_cuts",
+"scene_key": "ddg_bigbird_krylon_short_cuts/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "core_bottle_d9aee510fd5e8afb93fb5c975e8de2b7",
+"scene_key": "core_bottle_d9aee510fd5e8afb93fb5c975e8de2b7/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "ddg_gd_box_poisson_019",
+"scene_key": "ddg_gd_box_poisson_019/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_Pillow_15c98bfa322106a0d291861d5bc3e7c8",
+"scene_key": "sem_Pillow_15c98bfa322106a0d291861d5bc3e7c8/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "core_jar_4c2eb778f9b6485480067e3fdc6db24c",
+"scene_key": "core_jar_4c2eb778f9b6485480067e3fdc6db24c/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "mujoco_WHALE_WHISTLE_6PCS_SET",
+"scene_key": "mujoco_WHALE_WHISTLE_6PCS_SET/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "ddg_gd_box_poisson_015",
+"scene_key": "ddg_gd_box_poisson_015/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "core_mug_6faf1f04bde838e477f883dde7397db2",
+"scene_key": "core_mug_6faf1f04bde838e477f883dde7397db2/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "mujoco_Creatine_Monohydrate",
+"scene_key": "mujoco_Creatine_Monohydrate/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_Book_d8d4004791c4f61b80fa98b5eeb7036c",
+"scene_key": "sem_Book_d8d4004791c4f61b80fa98b5eeb7036c/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "mujoco_Ecoforms_Plant_Container_GP16A_Coral",
+"scene_key": "mujoco_Ecoforms_Plant_Container_GP16A_Coral/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "core_bottle_95e6a3a1232f97e3d333084c1357713e",
+"scene_key": "core_bottle_95e6a3a1232f97e3d333084c1357713e/tabletop_ur10e/scale008_pose008_0"
+},
+{
+"object": "core_bottle_776502db6e2e680e5e4f0d37557f3953",
+"scene_key": "core_bottle_776502db6e2e680e5e4f0d37557f3953/tabletop_ur10e/scale010_pose008_0"
+},
+{
+"object": "mujoco_Blackcurrant_Lutein",
+"scene_key": "mujoco_Blackcurrant_Lutein/tabletop_ur10e/scale006_pose009_0"
+},
+{
+"object": "ddg_bigbird_hunts_sauce",
+"scene_key": "ddg_bigbird_hunts_sauce/tabletop_ur10e/scale006_pose007_0"
+},
+{
+"object": "ddg_kit_BakingSoda",
+"scene_key": "ddg_kit_BakingSoda/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "mujoco_45oz_RAMEKIN_ASST_DEEP_COLORS",
+"scene_key": "mujoco_45oz_RAMEKIN_ASST_DEEP_COLORS/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "sem_PillBottle_f6de2a85da0e89b53f222a37719e9945",
+"scene_key": "sem_PillBottle_f6de2a85da0e89b53f222a37719e9945/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "sem_DrinkingUtensil_4ec31503deb053636c19a70b7478f722",
+"scene_key": "sem_DrinkingUtensil_4ec31503deb053636c19a70b7478f722/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "ddg_gd_tetra_pak_poisson_022",
+"scene_key": "ddg_gd_tetra_pak_poisson_022/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "core_bottle_5d6b5d1b135b8cf8b7886d94372e3c76",
+"scene_key": "core_bottle_5d6b5d1b135b8cf8b7886d94372e3c76/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "core_bottle_632a0bd7869cb763780bbc8616cb15f8",
+"scene_key": "core_bottle_632a0bd7869cb763780bbc8616cb15f8/tabletop_ur10e/scale010_pose008_0"
+},
+{
+"object": "core_jar_85ad6844a52ec08cdf7d84aa9195db06",
+"scene_key": "core_jar_85ad6844a52ec08cdf7d84aa9195db06/tabletop_ur10e/scale006_pose009_0"
+},
+{
+"object": "mujoco_JarroSil_Activated_Silicon",
+"scene_key": "mujoco_JarroSil_Activated_Silicon/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "sem_Ipod_39318878f6e98ed2150eaf7a4ddb8bec",
+"scene_key": "sem_Ipod_39318878f6e98ed2150eaf7a4ddb8bec/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "sem_Truck_6a87e2fda2b22030bc2f4fd97ddfb2e6",
+"scene_key": "sem_Truck_6a87e2fda2b22030bc2f4fd97ddfb2e6/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "core_can_d44cec47dbdead7ca46192d8b30882",
+"scene_key": "core_can_d44cec47dbdead7ca46192d8b30882/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "mujoco_Android_Figure_Panda",
+"scene_key": "mujoco_Android_Figure_Panda/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "sem_Pizza_b3a8ebcf6e9ca5852721058c5c629b05",
+"scene_key": "sem_Pizza_b3a8ebcf6e9ca5852721058c5c629b05/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "sem_FoodItem_724488d30d3495145c604da6952146db",
+"scene_key": "sem_FoodItem_724488d30d3495145c604da6952146db/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "ddg_gd_soccer_ball_poisson_001",
+"scene_key": "ddg_gd_soccer_ball_poisson_001/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "ddg_gd_camera_poisson_003",
+"scene_key": "ddg_gd_camera_poisson_003/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "core_camera_6c14c6f6cca53a6710d0920f7087353b",
+"scene_key": "core_camera_6c14c6f6cca53a6710d0920f7087353b/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "core_mug_6c5ec193434326fd6fa82390eb12174f",
+"scene_key": "core_mug_6c5ec193434326fd6fa82390eb12174f/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "ddg_gd_pot_poisson_000",
+"scene_key": "ddg_gd_pot_poisson_000/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "mujoco_UGG_Bailey_Button_Womens_Boots_Black_7",
+"scene_key": "mujoco_UGG_Bailey_Button_Womens_Boots_Black_7/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "sem_DrinkingUtensil_542235fc88d22e1e3406473757712946",
+"scene_key": "sem_DrinkingUtensil_542235fc88d22e1e3406473757712946/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "ddg_gd_jar_poisson_019",
+"scene_key": "ddg_gd_jar_poisson_019/tabletop_ur10e/scale012_pose009_0"
+},
+{
+"object": "mujoco_Perricone_MD_AcylGlutathione_Eye_Lid_Serum",
+"scene_key": "mujoco_Perricone_MD_AcylGlutathione_Eye_Lid_Serum/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "core_jar_ed3c75975804636e34a8988fdcee4fde",
+"scene_key": "core_jar_ed3c75975804636e34a8988fdcee4fde/tabletop_ur10e/scale010_pose006_0"
+},
+{
+"object": "sem_Car_8d25182a83eadf3b65656a35467c62d7",
+"scene_key": "sem_Car_8d25182a83eadf3b65656a35467c62d7/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "core_can_70172e6afe6aff7847f90c1ac631b97f",
+"scene_key": "core_can_70172e6afe6aff7847f90c1ac631b97f/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_Xbox360_d0dff348985d4f8e65ca1b579a4b8d2",
+"scene_key": "sem_Xbox360_d0dff348985d4f8e65ca1b579a4b8d2/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "core_jar_d3e31e11258926104d38ef17af2f7d70",
+"scene_key": "core_jar_d3e31e11258926104d38ef17af2f7d70/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "core_bottle_8adc0ce79962ac2021072d05c97a5e0a",
+"scene_key": "core_bottle_8adc0ce79962ac2021072d05c97a5e0a/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "sem_Battery_df764d4f469372c468909d1f30d3c271",
+"scene_key": "sem_Battery_df764d4f469372c468909d1f30d3c271/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "ddg_gd_toy_poisson_001",
+"scene_key": "ddg_gd_toy_poisson_001/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "sem_FileCabinet_839996ad49bfe12aaee45fb27ad3a6fe",
+"scene_key": "sem_FileCabinet_839996ad49bfe12aaee45fb27ad3a6fe/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "core_bottle_c553b7e594942f0a4c0bba210aa0d1",
+"scene_key": "core_bottle_c553b7e594942f0a4c0bba210aa0d1/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "core_camera_6ed69b00b4632b6e07718ee10b83e10",
+"scene_key": "core_camera_6ed69b00b4632b6e07718ee10b83e10/tabletop_ur10e/scale010_pose006_0"
+},
+{
+"object": "sem_RubiksCube_519c4e78191acdcae2a5d596858e729c",
+"scene_key": "sem_RubiksCube_519c4e78191acdcae2a5d596858e729c/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "sem_DrinkingUtensil_2997f21fa426e18a6ab1a25d0e8f3590",
+"scene_key": "sem_DrinkingUtensil_2997f21fa426e18a6ab1a25d0e8f3590/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "core_can_eac30c41aad2ff27c0ca8d7a07be3be",
+"scene_key": "core_can_eac30c41aad2ff27c0ca8d7a07be3be/tabletop_ur10e/scale012_pose009_0"
+},
+{
+"object": "core_bottle_fdc47f5f8dff184830eaaf40a8a562c1",
+"scene_key": "core_bottle_fdc47f5f8dff184830eaaf40a8a562c1/tabletop_ur10e/scale010_pose006_0"
+},
+{
+"object": "sem_SodaCan_a8e19b9337486f7c7a8bb04de252a4a",
+"scene_key": "sem_SodaCan_a8e19b9337486f7c7a8bb04de252a4a/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "sem_PillBottle_ec42773c595dc08e4d678187b8261d95",
+"scene_key": "sem_PillBottle_ec42773c595dc08e4d678187b8261d95/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "sem_DrinkingUtensil_57f73714cbc425e44ae022a8f6e258a7",
+"scene_key": "sem_DrinkingUtensil_57f73714cbc425e44ae022a8f6e258a7/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "ddg_gd_lemon_poisson_002",
+"scene_key": "ddg_gd_lemon_poisson_002/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "mujoco_45oz_RAMEKIN_ASST_DEEP_COLORS",
+"scene_key": "mujoco_45oz_RAMEKIN_ASST_DEEP_COLORS/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "core_bowl_7d7bdea515818eb844638317e9e4ff18",
+"scene_key": "core_bowl_7d7bdea515818eb844638317e9e4ff18/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "core_bottle_21239b0cafa13526cafb7c62b057a234",
+"scene_key": "core_bottle_21239b0cafa13526cafb7c62b057a234/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "mujoco_WHALE_WHISTLE_6PCS_SET",
+"scene_key": "mujoco_WHALE_WHISTLE_6PCS_SET/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "sem_SodaCan_6675068ac1eeb8197db8a665a329f99",
+"scene_key": "sem_SodaCan_6675068ac1eeb8197db8a665a329f99/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "sem_TissueBox_e1a25cabcd4b233bb4c86e56e2f0dc0c",
+"scene_key": "sem_TissueBox_e1a25cabcd4b233bb4c86e56e2f0dc0c/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "sem_FoodItem_fca342f2073ea04faa7be9cd06519a9",
+"scene_key": "sem_FoodItem_fca342f2073ea04faa7be9cd06519a9/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "sem_Bear_931aed954d9930a6cf3c4bee96d5618c",
+"scene_key": "sem_Bear_931aed954d9930a6cf3c4bee96d5618c/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "sem_FoodItem_83ad6d967cf17a985b3b9c71b7cfbff7",
+"scene_key": "sem_FoodItem_83ad6d967cf17a985b3b9c71b7cfbff7/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "core_bottle_810e90684c0d4ce5636e3a589cf8c61c",
+"scene_key": "core_bottle_810e90684c0d4ce5636e3a589cf8c61c/tabletop_ur10e/scale010_pose004_0"
+},
+{
+"object": "mujoco_Wrigley_Orbit_Mint_Variety_18_Count",
+"scene_key": "mujoco_Wrigley_Orbit_Mint_Variety_18_Count/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "core_can_9b1f0ddd23357e01a81ec39fd9664e9b",
+"scene_key": "core_can_9b1f0ddd23357e01a81ec39fd9664e9b/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "sem_Camera_a600991b042b2d5492348cc032adf089",
+"scene_key": "sem_Camera_a600991b042b2d5492348cc032adf089/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "core_can_7b643c8136a720d9db4a36333be9155",
+"scene_key": "core_can_7b643c8136a720d9db4a36333be9155/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "mujoco_PEEKABOO_ROLLER",
+"scene_key": "mujoco_PEEKABOO_ROLLER/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "sem_Vase_de673ddf9df03b8278cf1a714198918",
+"scene_key": "sem_Vase_de673ddf9df03b8278cf1a714198918/tabletop_ur10e/scale010_pose004_0"
+},
+{
+"object": "ddg_gd_toaster_poisson_010",
+"scene_key": "ddg_gd_toaster_poisson_010/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "sem_VideoGameController_1ddf7826d6dff2cccffdc5bf87b1e5e2",
+"scene_key": "sem_VideoGameController_1ddf7826d6dff2cccffdc5bf87b1e5e2/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "mujoco_Black_Decker_CM2035B_12Cup_Thermal_Coffeemaker",
+"scene_key": "mujoco_Black_Decker_CM2035B_12Cup_Thermal_Coffeemaker/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "ddg_gd_shampoo_new_poisson_002",
+"scene_key": "ddg_gd_shampoo_new_poisson_002/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_Bottle_15787789482f045d8add95bf56d3d2fa",
+"scene_key": "sem_Bottle_15787789482f045d8add95bf56d3d2fa/tabletop_ur10e/scale006_pose007_0"
+},
+{
+"object": "sem_FoodItem_b455ebfd4eeaa611a3f10d612f39bb6",
+"scene_key": "sem_FoodItem_b455ebfd4eeaa611a3f10d612f39bb6/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "mujoco_PUNCH_DROP_TjicLPMqLvz",
+"scene_key": "mujoco_PUNCH_DROP_TjicLPMqLvz/tabletop_ur10e/scale006_pose006_0"
+},
+{
+"object": "sem_PillBottle_fdc47f5f8dff184830eaaf40a8a562c1",
+"scene_key": "sem_PillBottle_fdc47f5f8dff184830eaaf40a8a562c1/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "core_mug_d75af64aa166c24eacbe2257d0988c9c",
+"scene_key": "core_mug_d75af64aa166c24eacbe2257d0988c9c/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "core_can_3fd196c22459cc66c8687ff9b0b4e4ac",
+"scene_key": "core_can_3fd196c22459cc66c8687ff9b0b4e4ac/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "mujoco_Granimals_20_Wooden_ABC_Blocks_Wagon_85VdSftGsLi",
+"scene_key": "mujoco_Granimals_20_Wooden_ABC_Blocks_Wagon_85VdSftGsLi/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "core_bottle_e017cd91e485756aef026123226f5519",
+"scene_key": "core_bottle_e017cd91e485756aef026123226f5519/tabletop_ur10e/scale012_pose007_0"
+},
+{
+"object": "core_bowl_b195dbe537993945e4e346ee2650d150",
+"scene_key": "core_bowl_b195dbe537993945e4e346ee2650d150/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "sem_FoodItem_2ddf6075c2e4fe46b5de9f9c43608e2e",
+"scene_key": "sem_FoodItem_2ddf6075c2e4fe46b5de9f9c43608e2e/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "ddg_gd_starfruit_poisson_000",
+"scene_key": "ddg_gd_starfruit_poisson_000/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "sem_Car_2f28e2bd754977da8cfac9da0ff28f62",
+"scene_key": "sem_Car_2f28e2bd754977da8cfac9da0ff28f62/tabletop_ur10e/scale006_pose004_0"
+},
+{
+"object": "sem_FoodItem_d137d3758ef6dc79b555b36aa2b7304a",
+"scene_key": "sem_FoodItem_d137d3758ef6dc79b555b36aa2b7304a/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "sem_TableClock_3ac855eb532ed682fa58e2c43125b2bb",
+"scene_key": "sem_TableClock_3ac855eb532ed682fa58e2c43125b2bb/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_DrinkingUtensil_b811555ccf5ef6c4948fa2daa427fe1f",
+"scene_key": "sem_DrinkingUtensil_b811555ccf5ef6c4948fa2daa427fe1f/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "core_mug_128ecbc10df5b05d96eaf1340564a4de",
+"scene_key": "core_mug_128ecbc10df5b05d96eaf1340564a4de/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "core_jar_c369c35d54a88e56fe572c9a3e59d718",
+"scene_key": "core_jar_c369c35d54a88e56fe572c9a3e59d718/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "mujoco_Office_Depot_Canon_PG21XL_Remanufactured_Ink_Cartridge_Black",
+"scene_key": "mujoco_Office_Depot_Canon_PG21XL_Remanufactured_Ink_Cartridge_Black/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "ddg_gd_jar_poisson_017",
+"scene_key": "ddg_gd_jar_poisson_017/tabletop_ur10e/scale010_pose007_0"
+},
+{
+"object": "ddg_kit_ChocolateBars",
+"scene_key": "ddg_kit_ChocolateBars/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "ddg_gd_mug_new_poisson_001",
+"scene_key": "ddg_gd_mug_new_poisson_001/tabletop_ur10e/scale012_pose006_0"
+},
+{
+"object": "sem_Piano_ce4945cde785aecb478fa0ab37c461c6",
+"scene_key": "sem_Piano_ce4945cde785aecb478fa0ab37c461c6/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "ddg_ycb_077_rubiks_cube",
+"scene_key": "ddg_ycb_077_rubiks_cube/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "core_bottle_cf7a79435eb5b1bdb0be98650cd7fb6f",
+"scene_key": "core_bottle_cf7a79435eb5b1bdb0be98650cd7fb6f/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "core_bottle_a429f8eb0c3e6a1e6ea2d79f658bbae7",
+"scene_key": "core_bottle_a429f8eb0c3e6a1e6ea2d79f658bbae7/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "core_jar_3585601ea0abfdfb409421506a05b6e1",
+"scene_key": "core_jar_3585601ea0abfdfb409421506a05b6e1/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "ddg_gd_box_poisson_002",
+"scene_key": "ddg_gd_box_poisson_002/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "ddg_gd_donut_poisson_008",
+"scene_key": "ddg_gd_donut_poisson_008/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "core_bottle_b198ccb35182e73ffd2866d52d2e8042",
+"scene_key": "core_bottle_b198ccb35182e73ffd2866d52d2e8042/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "core_jar_c369c35d54a88e56fe572c9a3e59d718",
+"scene_key": "core_jar_c369c35d54a88e56fe572c9a3e59d718/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "ddg_kit_DropsOrange",
+"scene_key": "ddg_kit_DropsOrange/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "sem_FileCabinet_c227d03fbea989c6ef93db01ab079fcc",
+"scene_key": "sem_FileCabinet_c227d03fbea989c6ef93db01ab079fcc/tabletop_ur10e/scale006_pose004_0"
+},
+{
+"object": "sem_Camera_fb3b5fae94f7b02a3b269928487f8a4c",
+"scene_key": "sem_Camera_fb3b5fae94f7b02a3b269928487f8a4c/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "sem_FileCabinet_ae4c4273468905586ae3841175e518b2",
+"scene_key": "sem_FileCabinet_ae4c4273468905586ae3841175e518b2/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "core_bowl_c6be3b333b1f7ec9d42a2a5a47e9ed5",
+"scene_key": "core_bowl_c6be3b333b1f7ec9d42a2a5a47e9ed5/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_PillBottle_bb234652525a68498d969821a85884b2",
+"scene_key": "sem_PillBottle_bb234652525a68498d969821a85884b2/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "mujoco_AllergenFree_JarroDophilus",
+"scene_key": "mujoco_AllergenFree_JarroDophilus/tabletop_ur10e/scale008_pose006_0"
+},
+{
+"object": "core_jar_9097ce398b9700a27e561f865dc44fc5",
+"scene_key": "core_jar_9097ce398b9700a27e561f865dc44fc5/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "sem_Book_fd1843119c00bec7a4e3429ccb8eaf16",
+"scene_key": "sem_Book_fd1843119c00bec7a4e3429ccb8eaf16/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "sem_SodaCan_295be2a01cb9f29b716714dd1fd945b7",
+"scene_key": "sem_SodaCan_295be2a01cb9f29b716714dd1fd945b7/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "sem_DrinkingUtensil_c7f8d39c406fee941050b055aafa6fb8",
+"scene_key": "sem_DrinkingUtensil_c7f8d39c406fee941050b055aafa6fb8/tabletop_ur10e/scale006_pose008_0"
+},
+{
+"object": "core_bottle_a02a1255256fbe01c9292f26f73f6538",
+"scene_key": "core_bottle_a02a1255256fbe01c9292f26f73f6538/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "ddg_kit_LivioClassicOil",
+"scene_key": "ddg_kit_LivioClassicOil/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "sem_WallClock_3521751471b748ff2846fa729d90e125",
+"scene_key": "sem_WallClock_3521751471b748ff2846fa729d90e125/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "core_jar_56f7b662be65b7824725f67267e31c89",
+"scene_key": "core_jar_56f7b662be65b7824725f67267e31c89/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "core_jar_5e1c630396c0a1ce30cbeaf8f6d93761",
+"scene_key": "core_jar_5e1c630396c0a1ce30cbeaf8f6d93761/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "ddg_gd_jar_poisson_013",
+"scene_key": "ddg_gd_jar_poisson_013/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "core_jar_1a8f9295b44b48895e8c5748ca5ef3ea",
+"scene_key": "core_jar_1a8f9295b44b48895e8c5748ca5ef3ea/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "core_bottle_545225eda0e900f6d4a7a4c7d6e9bdc3",
+"scene_key": "core_bottle_545225eda0e900f6d4a7a4c7d6e9bdc3/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "sem_Battery_a27f760d79386b7ae520afb34d7d31e4",
+"scene_key": "sem_Battery_a27f760d79386b7ae520afb34d7d31e4/tabletop_ur10e/scale012_pose006_0"
+},
+{
+"object": "sem_Bear_762fbaa6bf5823c21c1ef519b9196b63",
+"scene_key": "sem_Bear_762fbaa6bf5823c21c1ef519b9196b63/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "core_bottle_542223f09a872e973858be97087c26ec",
+"scene_key": "core_bottle_542223f09a872e973858be97087c26ec/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "ddg_ycb_063_b_marbles",
+"scene_key": "ddg_ycb_063_b_marbles/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "core_mug_67b9abb424cf22a22d7082a28b056a5",
+"scene_key": "core_mug_67b9abb424cf22a22d7082a28b056a5/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "core_jar_146f6702601f9c5d8bb41b82b15c6ac",
+"scene_key": "core_jar_146f6702601f9c5d8bb41b82b15c6ac/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "core_mug_d38295b8d83e8cdec712af445786fe",
+"scene_key": "core_mug_d38295b8d83e8cdec712af445786fe/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "sem_Showerhead_24e539b4aafc1ac476d20e73c57c9a03",
+"scene_key": "sem_Showerhead_24e539b4aafc1ac476d20e73c57c9a03/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "sem_Camera_3008d608438d62a96e70c97582b58466",
+"scene_key": "sem_Camera_3008d608438d62a96e70c97582b58466/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "sem_VideoGameConsole_e77143d5b4f08e7d9e3b188ad848fde2",
+"scene_key": "sem_VideoGameConsole_e77143d5b4f08e7d9e3b188ad848fde2/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "core_jar_b20ca8a345790b03d3dad974dc098fa1",
+"scene_key": "core_jar_b20ca8a345790b03d3dad974dc098fa1/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "core_jar_fed045d07c91bb2723901b5a0f119b35",
+"scene_key": "core_jar_fed045d07c91bb2723901b5a0f119b35/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "mujoco_STACKING_RING",
+"scene_key": "mujoco_STACKING_RING/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "mujoco_Pass_The_Popcorn_Movie_Guessing_Game",
+"scene_key": "mujoco_Pass_The_Popcorn_Movie_Guessing_Game/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "core_jar_6e97b8fd720790455ca1f314f1afc186",
+"scene_key": "core_jar_6e97b8fd720790455ca1f314f1afc186/tabletop_ur10e/scale008_pose005_0"
+},
+{
+"object": "sem_Clock_f13269cf1c50893d2ea98d69e91ba870",
+"scene_key": "sem_Clock_f13269cf1c50893d2ea98d69e91ba870/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "mujoco_Office_Depot_HP_61Tricolor_Ink_Cartridge",
+"scene_key": "mujoco_Office_Depot_HP_61Tricolor_Ink_Cartridge/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "sem_DrinkingUtensil_46ed9dad0440c043d33646b0990bb4a",
+"scene_key": "sem_DrinkingUtensil_46ed9dad0440c043d33646b0990bb4a/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "mujoco_Sapota_Threshold_4_Ceramic_Round_Planter_Red",
+"scene_key": "mujoco_Sapota_Threshold_4_Ceramic_Round_Planter_Red/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "sem_Vase_3ca4bd70f299100acd6a36c601ac1ec2",
+"scene_key": "sem_Vase_3ca4bd70f299100acd6a36c601ac1ec2/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "ddg_ycb_065_a_cups",
+"scene_key": "ddg_ycb_065_a_cups/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "core_pillow_a0903daa3dfa996837b2bb75885cfc44",
+"scene_key": "core_pillow_a0903daa3dfa996837b2bb75885cfc44/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "core_jar_e7c29b8c7709187d42526f5fcee84e09",
+"scene_key": "core_jar_e7c29b8c7709187d42526f5fcee84e09/tabletop_ur10e/scale006_pose006_0"
+},
+{
+"object": "core_jar_9bf9f7dc9f7160cf82db9fca4b68095",
+"scene_key": "core_jar_9bf9f7dc9f7160cf82db9fca4b68095/tabletop_ur10e/scale008_pose005_0"
+},
+{
+"object": "mujoco_Bifidus_Balance_FOS",
+"scene_key": "mujoco_Bifidus_Balance_FOS/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "sem_Vase_7b97f7b6ba604173fec8ec00010848b3",
+"scene_key": "sem_Vase_7b97f7b6ba604173fec8ec00010848b3/tabletop_ur10e/scale006_pose004_0"
+},
+{
+"object": "core_mug_387b695db51190d3be276203d0b1a33f",
+"scene_key": "core_mug_387b695db51190d3be276203d0b1a33f/tabletop_ur10e/scale008_pose006_0"
+},
+{
+"object": "core_can_e532d6bd597d4e91e3e4737f6033f0f8",
+"scene_key": "core_can_e532d6bd597d4e91e3e4737f6033f0f8/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "ddg_gd_tomato_poisson_000",
+"scene_key": "ddg_gd_tomato_poisson_000/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "core_bottle_81bbf3134d1ca27a58449bd132e3a3fe",
+"scene_key": "core_bottle_81bbf3134d1ca27a58449bd132e3a3fe/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "sem_Bottle_81b2ce7d719326c8fd54367fe37b16",
+"scene_key": "sem_Bottle_81b2ce7d719326c8fd54367fe37b16/tabletop_ur10e/scale008_pose008_0"
+},
+{
+"object": "core_can_990a058fbb51c655d773a8448a79e14c",
+"scene_key": "core_can_990a058fbb51c655d773a8448a79e14c/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "mujoco_Organic_Whey_Protein_Unflavored",
+"scene_key": "mujoco_Organic_Whey_Protein_Unflavored/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "core_jar_306e447225c6976082db9fca4b68095",
+"scene_key": "core_jar_306e447225c6976082db9fca4b68095/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "ddg_gd_pot_poisson_004",
+"scene_key": "ddg_gd_pot_poisson_004/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "core_camera_e67273eff31fabce656c3a28e34d04c4",
+"scene_key": "core_camera_e67273eff31fabce656c3a28e34d04c4/tabletop_ur10e/scale006_pose004_0"
+},
+{
+"object": "sem_Camera_74ebdf5a3cdf33ebc6966f67e1bb9e90",
+"scene_key": "sem_Camera_74ebdf5a3cdf33ebc6966f67e1bb9e90/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "sem_FoodItem_724488d30d3495145c604da6952146db",
+"scene_key": "sem_FoodItem_724488d30d3495145c604da6952146db/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "mujoco_Shurtape_Tape_Purple_CP28",
+"scene_key": "mujoco_Shurtape_Tape_Purple_CP28/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "ddg_gd_starfruit_poisson_000",
+"scene_key": "ddg_gd_starfruit_poisson_000/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "sem_ToyFigure_490eccfb156a6c476495fceb80f2efd3",
+"scene_key": "sem_ToyFigure_490eccfb156a6c476495fceb80f2efd3/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "core_bottle_6b884893938943f70b5ecdc69e74dca",
+"scene_key": "core_bottle_6b884893938943f70b5ecdc69e74dca/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "core_jar_889b2e6dc1b409cd5e29ce2c9d37b952",
+"scene_key": "core_jar_889b2e6dc1b409cd5e29ce2c9d37b952/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "core_can_7b643c8136a720d9db4a36333be9155",
+"scene_key": "core_can_7b643c8136a720d9db4a36333be9155/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "core_can_147901ede668deb7d8d848cc867b0bc8",
+"scene_key": "core_can_147901ede668deb7d8d848cc867b0bc8/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "core_mug_1dd8290a154f4b1534a8988fdcee4fde",
+"scene_key": "core_mug_1dd8290a154f4b1534a8988fdcee4fde/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "core_camera_9d79c246317bbbe87f72d6c7f2024896",
+"scene_key": "core_camera_9d79c246317bbbe87f72d6c7f2024896/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "ddg_gd_donut_poisson_006",
+"scene_key": "ddg_gd_donut_poisson_006/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "core_can_c4bce3dc44c66630282f9cd3f45eaa2a",
+"scene_key": "core_can_c4bce3dc44c66630282f9cd3f45eaa2a/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "mujoco_Blackcurrant_Lutein",
+"scene_key": "mujoco_Blackcurrant_Lutein/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "sem_Camera_ba553a72dc325a94c874ccdb773635eb",
+"scene_key": "sem_Camera_ba553a72dc325a94c874ccdb773635eb/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "ddg_bigbird_dove_pink",
+"scene_key": "ddg_bigbird_dove_pink/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "core_bottle_1ffd7113492d375593202bf99dddc268",
+"scene_key": "core_bottle_1ffd7113492d375593202bf99dddc268/tabletop_ur10e/scale010_pose007_0"
+},
+{
+"object": "sem_RiceCooker_b3bbd60c89f54f1231a50841704a69bf",
+"scene_key": "sem_RiceCooker_b3bbd60c89f54f1231a50841704a69bf/tabletop_ur10e/scale006_pose004_0"
+},
+{
+"object": "core_bottle_f03f9704001d2055ab8a56962d772d13",
+"scene_key": "core_bottle_f03f9704001d2055ab8a56962d772d13/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "mujoco_AllergenFree_JarroDophilus",
+"scene_key": "mujoco_AllergenFree_JarroDophilus/tabletop_ur10e/scale006_pose004_0"
+},
+{
+"object": "core_jar_9e8595c3bbb0a5d0ba5342d638d0c267",
+"scene_key": "core_jar_9e8595c3bbb0a5d0ba5342d638d0c267/tabletop_ur10e/scale012_pose007_0"
+},
+{
+"object": "core_jar_8c9ffa8ee8f3b497e987f10c30c67205",
+"scene_key": "core_jar_8c9ffa8ee8f3b497e987f10c30c67205/tabletop_ur10e/scale008_pose005_0"
+},
+{
+"object": "sem_WallClock_247ca61022a4f47e8a94168388287ad5",
+"scene_key": "sem_WallClock_247ca61022a4f47e8a94168388287ad5/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "sem_SodaCan_98b56121d1a384fc83a152a47ac52074",
+"scene_key": "sem_SodaCan_98b56121d1a384fc83a152a47ac52074/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "core_camera_936a458fdb8eb12171dc2053392a6e6f",
+"scene_key": "core_camera_936a458fdb8eb12171dc2053392a6e6f/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_Telephone_4f3c487c54ca29f2439292e4b8fd557e",
+"scene_key": "sem_Telephone_4f3c487c54ca29f2439292e4b8fd557e/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "core_jar_9097ce398b9700a27e561f865dc44fc5",
+"scene_key": "core_jar_9097ce398b9700a27e561f865dc44fc5/tabletop_ur10e/scale006_pose004_0"
+},
+{
+"object": "mujoco_Down_To_Earth_Orchid_Pot_Ceramic_Red",
+"scene_key": "mujoco_Down_To_Earth_Orchid_Pot_Ceramic_Red/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "ddg_ycb_072_a_toy_airplane",
+"scene_key": "ddg_ycb_072_a_toy_airplane/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "mujoco_Womens_Multi_13",
+"scene_key": "mujoco_Womens_Multi_13/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "mujoco_Snack_Catcher_Snack_Dispenser",
+"scene_key": "mujoco_Snack_Catcher_Snack_Dispenser/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "sem_SodaCan_8df732a79dc7d0e75ce473ef7d28f29a",
+"scene_key": "sem_SodaCan_8df732a79dc7d0e75ce473ef7d28f29a/tabletop_ur10e/scale010_pose006_0"
+},
+{
+"object": "core_jar_311f29deecdde671295ffb61d1cd3a33",
+"scene_key": "core_jar_311f29deecdde671295ffb61d1cd3a33/tabletop_ur10e/scale010_pose007_0"
+},
+{
+"object": "mujoco_Office_Depot_Dell_Series_9_Color_Ink_Ink_Cartridge_MK991_MK993",
+"scene_key": "mujoco_Office_Depot_Dell_Series_9_Color_Ink_Ink_Cartridge_MK991_MK993/tabletop_ur10e/scale010_pose004_0"
+},
+{
+"object": "ddg_gd_toaster_poisson_001",
+"scene_key": "ddg_gd_toaster_poisson_001/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "sem_TissueBox_f9cf0ccfcb21c2e7899c1686868c4bc",
+"scene_key": "sem_TissueBox_f9cf0ccfcb21c2e7899c1686868c4bc/tabletop_ur10e/scale012_pose005_0"
+},
+{
+"object": "mujoco_Blackcurrant_Lutein",
+"scene_key": "mujoco_Blackcurrant_Lutein/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "core_can_a8d4a3b32149d3ae4f0b8af4571b1440",
+"scene_key": "core_can_a8d4a3b32149d3ae4f0b8af4571b1440/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "mujoco_Circo_Fish_Toothbrush_Holder_14995988",
+"scene_key": "mujoco_Circo_Fish_Toothbrush_Holder_14995988/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "sem_Tape_81fd4ab44df90d8ad84b8ba651dfb8ac",
+"scene_key": "sem_Tape_81fd4ab44df90d8ad84b8ba651dfb8ac/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "core_bottle_289b2ca2562277a9ca3fbd0e4ec160a5",
+"scene_key": "core_bottle_289b2ca2562277a9ca3fbd0e4ec160a5/tabletop_ur10e/scale012_pose006_0"
+},
+{
+"object": "core_bowl_baeaa576ba746179e8d7df9e0b95a9b2",
+"scene_key": "core_bowl_baeaa576ba746179e8d7df9e0b95a9b2/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "sem_DrinkingUtensil_55b2c3d4b6a4c0d4397cc4b7b847646e",
+"scene_key": "sem_DrinkingUtensil_55b2c3d4b6a4c0d4397cc4b7b847646e/tabletop_ur10e/scale008_pose006_0"
+},
+{
+"object": "sem_Detergent_2d9be843d39a545f5af983a27c524ad0",
+"scene_key": "sem_Detergent_2d9be843d39a545f5af983a27c524ad0/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "core_jar_ca00e43903812f9bf8f2e9a6f7085339",
+"scene_key": "core_jar_ca00e43903812f9bf8f2e9a6f7085339/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "mujoco_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total",
+"scene_key": "mujoco_Nestl_Skinny_Cow_Heavenly_Crisp_Candy_Bar_Chocolate_Raspberry_6_pack_462_oz_total/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "core_pillow_94e39fb5f01f15118998b3b64a143d42",
+"scene_key": "core_pillow_94e39fb5f01f15118998b3b64a143d42/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "ddg_ycb_061_foam_brick",
+"scene_key": "ddg_ycb_061_foam_brick/tabletop_ur10e/scale012_pose005_0"
+},
+{
+"object": "core_jar_aea1a8fee02c011db8183a4a81361b94",
+"scene_key": "core_jar_aea1a8fee02c011db8183a4a81361b94/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "core_jar_7a5aeda354f43cd5baf4ef477c70e0df",
+"scene_key": "core_jar_7a5aeda354f43cd5baf4ef477c70e0df/tabletop_ur10e/scale012_pose007_0"
+},
+{
+"object": "mujoco_Epson_T5803_Ink_Cartridge_Magenta_1pack",
+"scene_key": "mujoco_Epson_T5803_Ink_Cartridge_Magenta_1pack/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "sem_Vase_5c63abf37622497759f9892433e1b1f4",
+"scene_key": "sem_Vase_5c63abf37622497759f9892433e1b1f4/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_DrinkingUtensil_6a9b31e1298ca1109c515ccf0f61e75f",
+"scene_key": "sem_DrinkingUtensil_6a9b31e1298ca1109c515ccf0f61e75f/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "sem_MilkCarton_313026b3dd934a8c66ab797924e689f7",
+"scene_key": "sem_MilkCarton_313026b3dd934a8c66ab797924e689f7/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "mujoco_STACKING_RING",
+"scene_key": "mujoco_STACKING_RING/tabletop_ur10e/scale008_pose006_0"
+},
+{
+"object": "mujoco_Olive_Kids_Game_On_Pack_n_Snack",
+"scene_key": "mujoco_Olive_Kids_Game_On_Pack_n_Snack/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "core_mug_f7d776fd68b126f23b67070c4a034f08",
+"scene_key": "core_mug_f7d776fd68b126f23b67070c4a034f08/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "mujoco_Olive_Kids_Mermaids_Pack_n_Snack_Backpack",
+"scene_key": "mujoco_Olive_Kids_Mermaids_Pack_n_Snack_Backpack/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "core_mug_4b8b10d03552e0891898dfa8eb8eefff",
+"scene_key": "core_mug_4b8b10d03552e0891898dfa8eb8eefff/tabletop_ur10e/scale012_pose005_0"
+},
+{
+"object": "ddg_gd_jar_poisson_021",
+"scene_key": "ddg_gd_jar_poisson_021/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "core_mug_1c3fccb84f1eeb97a3d0a41d6c77ec7c",
+"scene_key": "core_mug_1c3fccb84f1eeb97a3d0a41d6c77ec7c/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "mujoco_Crayola_Washable_Sidewalk_Chalk_16_pack",
+"scene_key": "mujoco_Crayola_Washable_Sidewalk_Chalk_16_pack/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "sem_Vase_4cd37983220c5949946c2e1ea428382a",
+"scene_key": "sem_Vase_4cd37983220c5949946c2e1ea428382a/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "mujoco_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box",
+"scene_key": "mujoco_U_By_Kotex_Sleek_Regular_Unscented_Tampons_36_Ct_Box/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "mujoco_Asus_Z97IPLUS_Motherboard_Mini_ITX_LGA1150_Socket",
+"scene_key": "mujoco_Asus_Z97IPLUS_Motherboard_Mini_ITX_LGA1150_Socket/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "sem_FoodItem_9ab7af92af5d452a76bb31db0358e9c6",
+"scene_key": "sem_FoodItem_9ab7af92af5d452a76bb31db0358e9c6/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "sem_Camera_a006914d2b0c727bb837f8bbf7b05587",
+"scene_key": "sem_Camera_a006914d2b0c727bb837f8bbf7b05587/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "core_jar_ed3c75975804636e34a8988fdcee4fde",
+"scene_key": "core_jar_ed3c75975804636e34a8988fdcee4fde/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_TapeMeasure_8f0a948bdcf8a65d43a73aba20837492",
+"scene_key": "sem_TapeMeasure_8f0a948bdcf8a65d43a73aba20837492/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "mujoco_Down_To_Earth_Orchid_Pot_Ceramic_Lime",
+"scene_key": "mujoco_Down_To_Earth_Orchid_Pot_Ceramic_Lime/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "sem_VideoGameConsole_a6f20b00233b0a0dc3d7695e580af6c",
+"scene_key": "sem_VideoGameConsole_a6f20b00233b0a0dc3d7695e580af6c/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "mujoco_Cole_Hardware_Electric_Pot_Cabana_55",
+"scene_key": "mujoco_Cole_Hardware_Electric_Pot_Cabana_55/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "sem_ToyFigure_f1c11e37a51eacccf8208b6313b1ffa0",
+"scene_key": "sem_ToyFigure_f1c11e37a51eacccf8208b6313b1ffa0/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "sem_FoodItem_a9e98d163d59671d73ffdca541f4749c",
+"scene_key": "sem_FoodItem_a9e98d163d59671d73ffdca541f4749c/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "ddg_gd_donut_poisson_004",
+"scene_key": "ddg_gd_donut_poisson_004/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "core_bottle_70e58e9f89fd9802a9891f6668163611",
+"scene_key": "core_bottle_70e58e9f89fd9802a9891f6668163611/tabletop_ur10e/scale010_pose007_0"
+},
+{
+"object": "mujoco_Epson_LabelWorks_LC4WBN9_Tape_reel_labels_047_x_295_Roll_Black_on_White",
+"scene_key": "mujoco_Epson_LabelWorks_LC4WBN9_Tape_reel_labels_047_x_295_Roll_Black_on_White/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "mujoco_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028",
+"scene_key": "mujoco_BIA_Cordon_Bleu_White_Porcelain_Utensil_Holder_900028/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "core_camera_6ed69b00b4632b6e07718ee10b83e10",
+"scene_key": "core_camera_6ed69b00b4632b6e07718ee10b83e10/tabletop_ur10e/scale008_pose005_0"
+},
+{
+"object": "sem_BeanBag_4c1d6b12b48a80b0ebd10747ca93b13b",
+"scene_key": "sem_BeanBag_4c1d6b12b48a80b0ebd10747ca93b13b/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "mujoco_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original",
+"scene_key": "mujoco_Phillips_Milk_of_Magnesia_Saline_Laxative_Liquid_Original/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "mujoco_3D_Dollhouse_TablePurple",
+"scene_key": "mujoco_3D_Dollhouse_TablePurple/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "ddg_kit_Deodorant",
+"scene_key": "ddg_kit_Deodorant/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "sem_Battery_e9618fc24f59c47424f030789cba1c9f",
+"scene_key": "sem_Battery_e9618fc24f59c47424f030789cba1c9f/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "sem_SodaCan_836ec249048214a6c8724d5673a063a6",
+"scene_key": "sem_SodaCan_836ec249048214a6c8724d5673a063a6/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "core_can_f755800334fcb49b450911b585bf4df8",
+"scene_key": "core_can_f755800334fcb49b450911b585bf4df8/tabletop_ur10e/scale008_pose005_0"
+},
+{
+"object": "sem_VideoGameConsole_4b684cba87483cdd5e07d9ea9f6e91c8",
+"scene_key": "sem_VideoGameConsole_4b684cba87483cdd5e07d9ea9f6e91c8/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "core_jar_7f355d9510fbe2b02af07f81a2ca6736",
+"scene_key": "core_jar_7f355d9510fbe2b02af07f81a2ca6736/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "core_jar_aa638e39c28f3a184800dfbcda5cce3",
+"scene_key": "core_jar_aa638e39c28f3a184800dfbcda5cce3/tabletop_ur10e/scale006_pose004_0"
+},
+{
+"object": "sem_SodaCan_16526d147e837c386829bf9ee210f5e7",
+"scene_key": "sem_SodaCan_16526d147e837c386829bf9ee210f5e7/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_DrinkingUtensil_b46a9c35587a38f6e87dab59b7e63362",
+"scene_key": "sem_DrinkingUtensil_b46a9c35587a38f6e87dab59b7e63362/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "ddg_bigbird_hunts_paste",
+"scene_key": "ddg_bigbird_hunts_paste/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "mujoco_Little_Debbie_Cloud_Cakes_10_ct",
+"scene_key": "mujoco_Little_Debbie_Cloud_Cakes_10_ct/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "sem_ToyFigure_e1de6d7d3107eea92b49ae088eb68f85",
+"scene_key": "sem_ToyFigure_e1de6d7d3107eea92b49ae088eb68f85/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "sem_TapeDispenser_cd4b3d3c0882d34c55fa258228485acf",
+"scene_key": "sem_TapeDispenser_cd4b3d3c0882d34c55fa258228485acf/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "mujoco_Crayola_Washable_Fingerpaint_Red_Blue_Yellow_3_count_8_fl_oz_bottes_each",
+"scene_key": "mujoco_Crayola_Washable_Fingerpaint_Red_Blue_Yellow_3_count_8_fl_oz_bottes_each/tabletop_ur10e/scale008_pose005_0"
+},
+{
+"object": "sem_Pillow_f3815806340d0fededa761b10992452d",
+"scene_key": "sem_Pillow_f3815806340d0fededa761b10992452d/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "sem_Camera_90198c0aaf0156ce764e2db342c0e628",
+"scene_key": "sem_Camera_90198c0aaf0156ce764e2db342c0e628/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "mujoco_PEEKABOO_ROLLER",
+"scene_key": "mujoco_PEEKABOO_ROLLER/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "mujoco_Germanium_GE132",
+"scene_key": "mujoco_Germanium_GE132/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "core_jar_31c50baef63a3cd0b64920759fcc80ba",
+"scene_key": "core_jar_31c50baef63a3cd0b64920759fcc80ba/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "core_camera_e67273eff31fabce656c3a28e34d04c4",
+"scene_key": "core_camera_e67273eff31fabce656c3a28e34d04c4/tabletop_ur10e/scale010_pose004_0"
+},
+{
+"object": "mujoco_Toysmith_Windem_Up_Flippin_Animals_Dog",
+"scene_key": "mujoco_Toysmith_Windem_Up_Flippin_Animals_Dog/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "core_jar_9bf9f7dc9f7160cf82db9fca4b68095",
+"scene_key": "core_jar_9bf9f7dc9f7160cf82db9fca4b68095/tabletop_ur10e/scale006_pose009_0"
+},
+{
+"object": "sem_ToyFigure_2936cf91218a53dee04e4d5188c661b9",
+"scene_key": "sem_ToyFigure_2936cf91218a53dee04e4d5188c661b9/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "core_can_3fd196c22459cc66c8687ff9b0b4e4ac",
+"scene_key": "core_can_3fd196c22459cc66c8687ff9b0b4e4ac/tabletop_ur10e/scale010_pose004_0"
+},
+{
+"object": "core_mug_9426e7aa67c83a4c3b51ab46b2f98f30",
+"scene_key": "core_mug_9426e7aa67c83a4c3b51ab46b2f98f30/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "sem_FileCabinet_ee8c6bdd41cb2f04c56f78d9daf213b",
+"scene_key": "sem_FileCabinet_ee8c6bdd41cb2f04c56f78d9daf213b/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "core_jar_5bbc259497af2fa15db77ed1f5c8b93",
+"scene_key": "core_jar_5bbc259497af2fa15db77ed1f5c8b93/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "core_bowl_9024177b7ed352f45126f17934e17803",
+"scene_key": "core_bowl_9024177b7ed352f45126f17934e17803/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "core_bottle_ca210c6696357f98e8ec08b84f068b50",
+"scene_key": "core_bottle_ca210c6696357f98e8ec08b84f068b50/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "sem_FoodItem_d137d3758ef6dc79b555b36aa2b7304a",
+"scene_key": "sem_FoodItem_d137d3758ef6dc79b555b36aa2b7304a/tabletop_ur10e/scale012_pose006_0"
+},
+{
+"object": "ddg_kit_HotPot",
+"scene_key": "ddg_kit_HotPot/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "sem_Bottle_d7305324e9dd49eccee5e41d780064a2",
+"scene_key": "sem_Bottle_d7305324e9dd49eccee5e41d780064a2/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "core_mug_f23a544c04e2f5ccb50d0c6a0c254040",
+"scene_key": "core_mug_f23a544c04e2f5ccb50d0c6a0c254040/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "mujoco_Blackcurrant_Lutein",
+"scene_key": "mujoco_Blackcurrant_Lutein/tabletop_ur10e/scale010_pose009_0"
+},
+{
+"object": "sem_Telephone_c117b031376d3c12cd5cc02ebe46ffbd",
+"scene_key": "sem_Telephone_c117b031376d3c12cd5cc02ebe46ffbd/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "mujoco_5_HTP",
+"scene_key": "mujoco_5_HTP/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "sem_Battery_7ecc6a361de0128ec8de11d571206924",
+"scene_key": "sem_Battery_7ecc6a361de0128ec8de11d571206924/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "mujoco_Olive_Kids_Trains_Planes_Trucks_Munch_n_Lunch_Bag",
+"scene_key": "mujoco_Olive_Kids_Trains_Planes_Trucks_Munch_n_Lunch_Bag/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "core_remote_e76784a475f7aeb57e1c85c5c15da7fb",
+"scene_key": "core_remote_e76784a475f7aeb57e1c85c5c15da7fb/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "core_bowl_db180e4f9a75ae717ba6f8f10959534c",
+"scene_key": "core_bowl_db180e4f9a75ae717ba6f8f10959534c/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "ddg_bigbird_pop_tarts_strawberry",
+"scene_key": "ddg_bigbird_pop_tarts_strawberry/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "mujoco_Arm_Hammer_Diaper_Pail_Refills_12_Pack_MFWkmoweejt",
+"scene_key": "mujoco_Arm_Hammer_Diaper_Pail_Refills_12_Pack_MFWkmoweejt/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "core_bottle_6d3c20adcce2dd0f79b7b9ca8006b2fe",
+"scene_key": "core_bottle_6d3c20adcce2dd0f79b7b9ca8006b2fe/tabletop_ur10e/scale006_pose008_0"
+},
+{
+"object": "sem_DrinkingUtensil_55b2c3d4b6a4c0d4397cc4b7b847646e",
+"scene_key": "sem_DrinkingUtensil_55b2c3d4b6a4c0d4397cc4b7b847646e/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "sem_Vase_de673ddf9df03b8278cf1a714198918",
+"scene_key": "sem_Vase_de673ddf9df03b8278cf1a714198918/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "core_jar_26b9ede17422ff5b84cd259bd328e92a",
+"scene_key": "core_jar_26b9ede17422ff5b84cd259bd328e92a/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "core_jar_cb9b25b587bad917e6085a0a38e2f255",
+"scene_key": "core_jar_cb9b25b587bad917e6085a0a38e2f255/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "mujoco_Organic_Whey_Protein_Vanilla",
+"scene_key": "mujoco_Organic_Whey_Protein_Vanilla/tabletop_ur10e/scale012_pose007_0"
+},
+{
+"object": "core_can_f755800334fcb49b450911b585bf4df8",
+"scene_key": "core_can_f755800334fcb49b450911b585bf4df8/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "ddg_kit_CoughDropsHoney",
+"scene_key": "ddg_kit_CoughDropsHoney/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "mujoco_Mist_Wipe_Warmer",
+"scene_key": "mujoco_Mist_Wipe_Warmer/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "mujoco_Prostate_Optimizer",
+"scene_key": "mujoco_Prostate_Optimizer/tabletop_ur10e/scale008_pose006_0"
+},
+{
+"object": "mujoco_Dog",
+"scene_key": "mujoco_Dog/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "ddg_bigbird_campbells_soup_at_hand_creamy_tomato",
+"scene_key": "ddg_bigbird_campbells_soup_at_hand_creamy_tomato/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "core_jar_4cd37983220c5949946c2e1ea428382a",
+"scene_key": "core_jar_4cd37983220c5949946c2e1ea428382a/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "mujoco_Nescafe_Momento_Mocha_Specialty_Coffee_Mix_8_ct",
+"scene_key": "mujoco_Nescafe_Momento_Mocha_Specialty_Coffee_Mix_8_ct/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "mujoco_Cole_Hardware_Antislip_Surfacing_Material_White",
+"scene_key": "mujoco_Cole_Hardware_Antislip_Surfacing_Material_White/tabletop_ur10e/scale006_pose004_0"
+},
+{
+"object": "core_bottle_523cddb320608c09a37f3fc191551700",
+"scene_key": "core_bottle_523cddb320608c09a37f3fc191551700/tabletop_ur10e/scale006_pose006_0"
+},
+{
+"object": "sem_Xbox360_d0dff348985d4f8e65ca1b579a4b8d2",
+"scene_key": "sem_Xbox360_d0dff348985d4f8e65ca1b579a4b8d2/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "sem_Dog_42eca48d3d77f69fd1b60ecd8be23ba6",
+"scene_key": "sem_Dog_42eca48d3d77f69fd1b60ecd8be23ba6/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "sem_SodaCan_38dd2a8d2c984e2b6c1cd53dbc9f7b8e",
+"scene_key": "sem_SodaCan_38dd2a8d2c984e2b6c1cd53dbc9f7b8e/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "sem_Pillow_bb4e2c9e6c5b75a419bea36737d5c9cb",
+"scene_key": "sem_Pillow_bb4e2c9e6c5b75a419bea36737d5c9cb/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "mujoco_Borage_GLA240Gamma_Tocopherol",
+"scene_key": "mujoco_Borage_GLA240Gamma_Tocopherol/tabletop_ur10e/scale008_pose009_0"
+},
+{
+"object": "sem_TissueBox_266911058f9345d8c6e01b363ae6db1b",
+"scene_key": "sem_TissueBox_266911058f9345d8c6e01b363ae6db1b/tabletop_ur10e/scale012_pose005_0"
+},
+{
+"object": "sem_DiscCase_8a2cfe964083ef3fbb01628f533af3ce",
+"scene_key": "sem_DiscCase_8a2cfe964083ef3fbb01628f533af3ce/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "mujoco_Dixie_10_ounce_Bowls_35_ct",
+"scene_key": "mujoco_Dixie_10_ounce_Bowls_35_ct/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "sem_Pillow_7600e8f31b6734dc32381107ee7a567e",
+"scene_key": "sem_Pillow_7600e8f31b6734dc32381107ee7a567e/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "core_camera_483c387d6886e603314b44839465ec00",
+"scene_key": "core_camera_483c387d6886e603314b44839465ec00/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "mujoco_Mad_Gab_Refresh_Card_Game",
+"scene_key": "mujoco_Mad_Gab_Refresh_Card_Game/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "mujoco_Organic_Whey_Protein_Unflavored",
+"scene_key": "mujoco_Organic_Whey_Protein_Unflavored/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "ddg_gd_donut_poisson_004",
+"scene_key": "ddg_gd_donut_poisson_004/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "mujoco_Kid_Icarus_Uprising_Nintendo_3DS_Game",
+"scene_key": "mujoco_Kid_Icarus_Uprising_Nintendo_3DS_Game/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "core_jar_770f2adb9756b792c9f016d57db96408",
+"scene_key": "core_jar_770f2adb9756b792c9f016d57db96408/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "sem_Piano_57b9cc86ec0309913bd4975c87c7a868",
+"scene_key": "sem_Piano_57b9cc86ec0309913bd4975c87c7a868/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "core_mug_bcb6be8f0ff4a51872e526c4f21dfca4",
+"scene_key": "core_mug_bcb6be8f0ff4a51872e526c4f21dfca4/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "core_bowl_9024177b7ed352f45126f17934e17803",
+"scene_key": "core_bowl_9024177b7ed352f45126f17934e17803/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "sem_PillBottle_ef5893626d5048fd9d749aedd9392d68",
+"scene_key": "sem_PillBottle_ef5893626d5048fd9d749aedd9392d68/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "core_bottle_21dbbd17ae4c3fce6a90f735365ac29e",
+"scene_key": "core_bottle_21dbbd17ae4c3fce6a90f735365ac29e/tabletop_ur10e/scale010_pose008_0"
+},
+{
+"object": "sem_Book_de9973cc24c80178d1500d3c97406d29",
+"scene_key": "sem_Book_de9973cc24c80178d1500d3c97406d29/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "core_jar_971d8456fc6fde71cf644619c59e0de",
+"scene_key": "core_jar_971d8456fc6fde71cf644619c59e0de/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "sem_VideoGameConsole_a6f20b00233b0a0dc3d7695e580af6c",
+"scene_key": "sem_VideoGameConsole_a6f20b00233b0a0dc3d7695e580af6c/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "sem_TissueBox_ddfe181bccc810aea17986c482572fe1",
+"scene_key": "sem_TissueBox_ddfe181bccc810aea17986c482572fe1/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "ddg_gd_binder_poisson_004",
+"scene_key": "ddg_gd_binder_poisson_004/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "ddg_gd_light_bulb_poisson_010",
+"scene_key": "ddg_gd_light_bulb_poisson_010/tabletop_ur10e/scale012_pose005_0"
+},
+{
+"object": "core_jar_cdfe4639a2da7801d50406298c1adb95",
+"scene_key": "core_jar_cdfe4639a2da7801d50406298c1adb95/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "core_bottle_b033d2a7efef6d881bd37ceeddc6ee3",
+"scene_key": "core_bottle_b033d2a7efef6d881bd37ceeddc6ee3/tabletop_ur10e/scale006_pose007_0"
+},
+{
+"object": "ddg_gd_jar_poisson_024",
+"scene_key": "ddg_gd_jar_poisson_024/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "core_remote_e76784a475f7aeb57e1c85c5c15da7fb",
+"scene_key": "core_remote_e76784a475f7aeb57e1c85c5c15da7fb/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "sem_Vase_20ed6a41058e6b2659f9892433e1b1f4",
+"scene_key": "sem_Vase_20ed6a41058e6b2659f9892433e1b1f4/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "core_camera_b27815a2bde54ad3ab3dfa44f5fab01",
+"scene_key": "core_camera_b27815a2bde54ad3ab3dfa44f5fab01/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "core_can_7b643c8136a720d9db4a36333be9155",
+"scene_key": "core_can_7b643c8136a720d9db4a36333be9155/tabletop_ur10e/scale008_pose006_0"
+},
+{
+"object": "core_mug_71995893d717598c9de7b195ccfa970",
+"scene_key": "core_mug_71995893d717598c9de7b195ccfa970/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "sem_Cookie_ccfa74e5574678325cde8c99e4b182f9",
+"scene_key": "sem_Cookie_ccfa74e5574678325cde8c99e4b182f9/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "core_bottle_ee007f1aac12fbe549a44197486ae284",
+"scene_key": "core_bottle_ee007f1aac12fbe549a44197486ae284/tabletop_ur10e/scale006_pose008_0"
+},
+{
+"object": "mujoco_Theanine",
+"scene_key": "mujoco_Theanine/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "core_bowl_53f5240e1e82c96e2d20e9f11baa5f8f",
+"scene_key": "core_bowl_53f5240e1e82c96e2d20e9f11baa5f8f/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "ddg_bigbird_krylon_short_cuts",
+"scene_key": "ddg_bigbird_krylon_short_cuts/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "sem_SodaCan_bf974687b678c66e93fb5c975e8de2b7",
+"scene_key": "sem_SodaCan_bf974687b678c66e93fb5c975e8de2b7/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "core_bottle_bb46957091f2a282cfdfe3f21f42a111",
+"scene_key": "core_bottle_bb46957091f2a282cfdfe3f21f42a111/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "core_bowl_5f2ef71aa9b94edbb84959963148f2a2",
+"scene_key": "core_bowl_5f2ef71aa9b94edbb84959963148f2a2/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "mujoco_Threshold_Basket_Natural_Finish_Fabric_Liner_Small",
+"scene_key": "mujoco_Threshold_Basket_Natural_Finish_Fabric_Liner_Small/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "ddg_gd_box_poisson_009",
+"scene_key": "ddg_gd_box_poisson_009/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "core_jar_4a53c4af240c562537048583edf8ef2c",
+"scene_key": "core_jar_4a53c4af240c562537048583edf8ef2c/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "ddg_ycb_073_d_lego_duplo",
+"scene_key": "ddg_ycb_073_d_lego_duplo/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "sem_SodaCan_aeea9367551df34e8ff23e7e19499284",
+"scene_key": "sem_SodaCan_aeea9367551df34e8ff23e7e19499284/tabletop_ur10e/scale010_pose006_0"
+},
+{
+"object": "core_mug_9961ccbafd59cb03fe36eb2ab5fa00e0",
+"scene_key": "core_mug_9961ccbafd59cb03fe36eb2ab5fa00e0/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "ddg_bigbird_nature_valley_crunchy_oats_n_honey",
+"scene_key": "ddg_bigbird_nature_valley_crunchy_oats_n_honey/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "core_can_fd40fa8939f5f832ae1aa888dd691e79",
+"scene_key": "core_can_fd40fa8939f5f832ae1aa888dd691e79/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "mujoco_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count",
+"scene_key": "mujoco_Swiss_Miss_Hot_Cocoa_KCups_Milk_Chocolate_12_count/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "sem_SodaCan_aaddb845bbed4d2761aca20be67b688e",
+"scene_key": "sem_SodaCan_aaddb845bbed4d2761aca20be67b688e/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "core_jar_889b2e6dc1b409cd5e29ce2c9d37b952",
+"scene_key": "core_jar_889b2e6dc1b409cd5e29ce2c9d37b952/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "core_jar_a6d49ec1234f2465f84f031022f95405",
+"scene_key": "core_jar_a6d49ec1234f2465f84f031022f95405/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "mujoco_Borage_GLA240Gamma_Tocopherol",
+"scene_key": "mujoco_Borage_GLA240Gamma_Tocopherol/tabletop_ur10e/scale012_pose007_0"
+},
+{
+"object": "core_jar_b61141090612ac3ab361b6be63163da",
+"scene_key": "core_jar_b61141090612ac3ab361b6be63163da/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "core_mug_8b1dca1414ba88cb91986c63a4d7a99a",
+"scene_key": "core_mug_8b1dca1414ba88cb91986c63a4d7a99a/tabletop_ur10e/scale006_pose004_0"
+},
+{
+"object": "sem_Kettle_9c5b0553b7a7088759ac5a8e79274552",
+"scene_key": "sem_Kettle_9c5b0553b7a7088759ac5a8e79274552/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "ddg_gd_toilet_paper_poisson_004",
+"scene_key": "ddg_gd_toilet_paper_poisson_004/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "ddg_gd_box_poisson_017",
+"scene_key": "ddg_gd_box_poisson_017/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "mujoco_Kotex_U_Barely_There_Liners_Thin_60_count",
+"scene_key": "mujoco_Kotex_U_Barely_There_Liners_Thin_60_count/tabletop_ur10e/scale008_pose005_0"
+},
+{
+"object": "core_jar_770f2adb9756b792c9f016d57db96408",
+"scene_key": "core_jar_770f2adb9756b792c9f016d57db96408/tabletop_ur10e/scale006_pose008_0"
+},
+{
+"object": "ddg_gd_kettle_poisson_008",
+"scene_key": "ddg_gd_kettle_poisson_008/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "sem_DrinkingUtensil_23fb2a2231263e261a9ac99425d3b306",
+"scene_key": "sem_DrinkingUtensil_23fb2a2231263e261a9ac99425d3b306/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "core_bottle_da2703e6d87a28e75887f1f81e7530ec",
+"scene_key": "core_bottle_da2703e6d87a28e75887f1f81e7530ec/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "ddg_gd_lime_poisson_001",
+"scene_key": "ddg_gd_lime_poisson_001/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "core_bottle_860c81982a1703d35a7ce4c111af2db",
+"scene_key": "core_bottle_860c81982a1703d35a7ce4c111af2db/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "mujoco_Whey_Protein_Vanilla",
+"scene_key": "mujoco_Whey_Protein_Vanilla/tabletop_ur10e/scale008_pose006_0"
+},
+{
+"object": "sem_TissueBox_fd9c40cd2ff2aab4a843bb865a04c01a",
+"scene_key": "sem_TissueBox_fd9c40cd2ff2aab4a843bb865a04c01a/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "core_jar_93fa7a1e2aff0b84154dddaf2978e13f",
+"scene_key": "core_jar_93fa7a1e2aff0b84154dddaf2978e13f/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "ddg_gd_camera_poisson_019",
+"scene_key": "ddg_gd_camera_poisson_019/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "core_mug_4d9764afa3fbeb1b6c69dceb67157a66",
+"scene_key": "core_mug_4d9764afa3fbeb1b6c69dceb67157a66/tabletop_ur10e/scale006_pose001_0"
+},
+{
+"object": "sem_Bottle_d7305324e9dd49eccee5e41d780064a2",
+"scene_key": "sem_Bottle_d7305324e9dd49eccee5e41d780064a2/tabletop_ur10e/scale012_pose006_0"
+},
+{
+"object": "sem_MilkCarton_1c30b1102303f27ef690049a092c5efc",
+"scene_key": "sem_MilkCarton_1c30b1102303f27ef690049a092c5efc/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "sem_FoodItem_b455ebfd4eeaa611a3f10d612f39bb6",
+"scene_key": "sem_FoodItem_b455ebfd4eeaa611a3f10d612f39bb6/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "core_bottle_328ba04ff5119c74763cd81c1b401a16",
+"scene_key": "core_bottle_328ba04ff5119c74763cd81c1b401a16/tabletop_ur10e/scale008_pose009_0"
+},
+{
+"object": "ddg_bigbird_hersheys_cocoa",
+"scene_key": "ddg_bigbird_hersheys_cocoa/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "core_can_fd40fa8939f5f832ae1aa888dd691e79",
+"scene_key": "core_can_fd40fa8939f5f832ae1aa888dd691e79/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "sem_FileCabinet_34e0bcd04523ae59d477567e8c8a6c59",
+"scene_key": "sem_FileCabinet_34e0bcd04523ae59d477567e8c8a6c59/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "sem_Vase_b99191dfcaa751ad50e02ef26f47fe02",
+"scene_key": "sem_Vase_b99191dfcaa751ad50e02ef26f47fe02/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "ddg_gd_pitcher_poisson_001",
+"scene_key": "ddg_gd_pitcher_poisson_001/tabletop_ur10e/scale012_pose005_0"
+},
+{
+"object": "core_jar_76b3419536fa2802ead5bd90ea492d1b",
+"scene_key": "core_jar_76b3419536fa2802ead5bd90ea492d1b/tabletop_ur10e/scale008_pose005_0"
+},
+{
+"object": "ddg_kit_CoffeeFilters2",
+"scene_key": "ddg_kit_CoffeeFilters2/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "mujoco_AllergenFree_JarroDophilus",
+"scene_key": "mujoco_AllergenFree_JarroDophilus/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "sem_Vase_418003a4a24e2c18265d1076b4b6c5c",
+"scene_key": "sem_Vase_418003a4a24e2c18265d1076b4b6c5c/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "mujoco_IsoRich_Soy",
+"scene_key": "mujoco_IsoRich_Soy/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "sem_ToiletPaper_c120d6c6e1df328da50b88953d263a42",
+"scene_key": "sem_ToiletPaper_c120d6c6e1df328da50b88953d263a42/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "ddg_bigbird_fruit_by_the_foot",
+"scene_key": "ddg_bigbird_fruit_by_the_foot/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "core_jar_d3b53f56b4a7b3b3c9f016d57db96408",
+"scene_key": "core_jar_d3b53f56b4a7b3b3c9f016d57db96408/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "sem_Telephone_585f02091286a7a82b7045644a6897b2",
+"scene_key": "sem_Telephone_585f02091286a7a82b7045644a6897b2/tabletop_ur10e/scale012_pose005_0"
+},
+{
+"object": "sem_RiceCooker_5aa24fc0f25b61abb564bb0657e0d6",
+"scene_key": "sem_RiceCooker_5aa24fc0f25b61abb564bb0657e0d6/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "core_jar_c331b4c98868bfb529a42a0444436860",
+"scene_key": "core_jar_c331b4c98868bfb529a42a0444436860/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "ddg_kit_CoffeeFilters",
+"scene_key": "ddg_kit_CoffeeFilters/tabletop_ur10e/scale006_pose002_0"
+},
+{
+"object": "ddg_gd_toilet_paper_poisson_004",
+"scene_key": "ddg_gd_toilet_paper_poisson_004/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "ddg_gd_camera_poisson_016",
+"scene_key": "ddg_gd_camera_poisson_016/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "sem_CellPhone_2725909a09e1a7961df58f4da76e254b",
+"scene_key": "sem_CellPhone_2725909a09e1a7961df58f4da76e254b/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "ddg_ycb_070_b_colored_wood_blocks",
+"scene_key": "ddg_ycb_070_b_colored_wood_blocks/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "core_can_9effd38015b7e5ecc34b900bb2492e",
+"scene_key": "core_can_9effd38015b7e5ecc34b900bb2492e/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "ddg_gd_toy_poisson_016",
+"scene_key": "ddg_gd_toy_poisson_016/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "sem_FoodItem_71ae0db4b6f29376f48b9fefd9341bfa",
+"scene_key": "sem_FoodItem_71ae0db4b6f29376f48b9fefd9341bfa/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "ddg_gd_toilet_paper_poisson_000",
+"scene_key": "ddg_gd_toilet_paper_poisson_000/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "sem_FoodItem_d7a0fa331fd0c8dfa79a6a16f6a9c559",
+"scene_key": "sem_FoodItem_d7a0fa331fd0c8dfa79a6a16f6a9c559/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "core_can_fcd14e7ad72bfa70471c65fdb52b88b2",
+"scene_key": "core_can_fcd14e7ad72bfa70471c65fdb52b88b2/tabletop_ur10e/scale008_pose009_0"
+},
+{
+"object": "mujoco_Nescafe_16Count_Dolce_Gusto_Cappuccino_Capsules",
+"scene_key": "mujoco_Nescafe_16Count_Dolce_Gusto_Cappuccino_Capsules/tabletop_ur10e/scale008_pose004_0"
+},
+{
+"object": "sem_DrinkingUtensil_b811555ccf5ef6c4948fa2daa427fe1f",
+"scene_key": "sem_DrinkingUtensil_b811555ccf5ef6c4948fa2daa427fe1f/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "sem_SodaCan_1b36df7ed7ddd974c538fbfc1e40dbe0",
+"scene_key": "sem_SodaCan_1b36df7ed7ddd974c538fbfc1e40dbe0/tabletop_ur10e/scale006_pose007_0"
+},
+{
+"object": "core_bottle_70e58e9f89fd9802a9891f6668163611",
+"scene_key": "core_bottle_70e58e9f89fd9802a9891f6668163611/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "core_mug_c2e411ed6061a25ef06800d5696e457f",
+"scene_key": "core_mug_c2e411ed6061a25ef06800d5696e457f/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "mujoco_Perricone_MD_No_Bronzer_Bronzer",
+"scene_key": "mujoco_Perricone_MD_No_Bronzer_Bronzer/tabletop_ur10e/scale012_pose005_0"
+},
+{
+"object": "core_mug_345d3e7252156db8d44ee24d6b5498e1",
+"scene_key": "core_mug_345d3e7252156db8d44ee24d6b5498e1/tabletop_ur10e/scale010_pose009_0"
+},
+{
+"object": "core_bottle_add17b35bc4665e6f33a685c2506bbe6",
+"scene_key": "core_bottle_add17b35bc4665e6f33a685c2506bbe6/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "ddg_gd_binder_poisson_004",
+"scene_key": "ddg_gd_binder_poisson_004/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "ddg_gd_can_poisson_003",
+"scene_key": "ddg_gd_can_poisson_003/tabletop_ur10e/scale012_pose005_0"
+},
+{
+"object": "core_mug_39361b14ba19303ee42cfae782879837",
+"scene_key": "core_mug_39361b14ba19303ee42cfae782879837/tabletop_ur10e/scale010_pose006_0"
+},
+{
+"object": "sem_SodaCan_98b56121d1a384fc83a152a47ac52074",
+"scene_key": "sem_SodaCan_98b56121d1a384fc83a152a47ac52074/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "core_mug_1c3fccb84f1eeb97a3d0a41d6c77ec7c",
+"scene_key": "core_mug_1c3fccb84f1eeb97a3d0a41d6c77ec7c/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "core_mug_b815d7e084a5a75b8d543d7713b96a41",
+"scene_key": "core_mug_b815d7e084a5a75b8d543d7713b96a41/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "core_jar_12ec19e85b31e274725f67267e31c89",
+"scene_key": "core_jar_12ec19e85b31e274725f67267e31c89/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "core_mug_6aec84952a5ffcf33f60d03e1cb068dc",
+"scene_key": "core_mug_6aec84952a5ffcf33f60d03e1cb068dc/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "core_bottle_dd686080a4d1cac8e85013a1e4383bdd",
+"scene_key": "core_bottle_dd686080a4d1cac8e85013a1e4383bdd/tabletop_ur10e/scale006_pose003_0"
+},
+{
+"object": "sem_Truck_d24588a6a6b27f4f914c738e92faad58",
+"scene_key": "sem_Truck_d24588a6a6b27f4f914c738e92faad58/tabletop_ur10e/scale010_pose006_0"
+},
+{
+"object": "core_jar_f2599921c8e0a76ea4e7499e379fa4fc",
+"scene_key": "core_jar_f2599921c8e0a76ea4e7499e379fa4fc/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "sem_TableClock_24b5dbb43ebc21d351a3cde61844b03f",
+"scene_key": "sem_TableClock_24b5dbb43ebc21d351a3cde61844b03f/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "mujoco_Shurtape_Tape_Purple_CP28",
+"scene_key": "mujoco_Shurtape_Tape_Purple_CP28/tabletop_ur10e/scale006_pose007_0"
+},
+{
+"object": "ddg_gd_toilet_paper_poisson_000",
+"scene_key": "ddg_gd_toilet_paper_poisson_000/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "core_jar_2886e2026ed9da084b3c42e318f3affc",
+"scene_key": "core_jar_2886e2026ed9da084b3c42e318f3affc/tabletop_ur10e/scale010_pose007_0"
+},
+{
+"object": "core_camera_ee0f44a37e50eda2a39b1d7ef8834b0",
+"scene_key": "core_camera_ee0f44a37e50eda2a39b1d7ef8834b0/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "sem_Bowl_ecb86f63e92e346a25c70fb1df3f879b",
+"scene_key": "sem_Bowl_ecb86f63e92e346a25c70fb1df3f879b/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "core_mug_35ce7ede92198be2b759f7fb0032e59",
+"scene_key": "core_mug_35ce7ede92198be2b759f7fb0032e59/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "core_jar_8f0c5b50ea07f88e59c1c78579056df",
+"scene_key": "core_jar_8f0c5b50ea07f88e59c1c78579056df/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "sem_BeanBag_7263fe53bb4601efa37f3fc191551700",
+"scene_key": "sem_BeanBag_7263fe53bb4601efa37f3fc191551700/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "mujoco_Nescafe_Momento_Mocha_Specialty_Coffee_Mix_8_ct",
+"scene_key": "mujoco_Nescafe_Momento_Mocha_Specialty_Coffee_Mix_8_ct/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "core_jar_46eb2397e694c01e2b0ee99af125a449",
+"scene_key": "core_jar_46eb2397e694c01e2b0ee99af125a449/tabletop_ur10e/scale006_pose004_0"
+},
+{
+"object": "core_can_d052c17866cf5cf8387e8ce4aad01a52",
+"scene_key": "core_can_d052c17866cf5cf8387e8ce4aad01a52/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "ddg_gd_pitcher_poisson_000",
+"scene_key": "ddg_gd_pitcher_poisson_000/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "sem_PillBottle_6230f6c8fb4987db4489e8d156e61135",
+"scene_key": "sem_PillBottle_6230f6c8fb4987db4489e8d156e61135/tabletop_ur10e/scale006_pose006_0"
+},
+{
+"object": "sem_TableClock_e8c8090792a48c08b045cbdf51c133cd",
+"scene_key": "sem_TableClock_e8c8090792a48c08b045cbdf51c133cd/tabletop_ur10e/scale010_pose004_0"
+},
+{
+"object": "sem_FoodItem_e5a4666423674a889f7bbf181f9c6d08",
+"scene_key": "sem_FoodItem_e5a4666423674a889f7bbf181f9c6d08/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "sem_ToiletPaper_44e96b3ccbfc0620bcf87cf50cf0a3e4",
+"scene_key": "sem_ToiletPaper_44e96b3ccbfc0620bcf87cf50cf0a3e4/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "core_cellphone_9d021614c39c53dabee972a203aaf80",
+"scene_key": "core_cellphone_9d021614c39c53dabee972a203aaf80/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "core_bottle_6ebe74793197919e93f2361527e0abe5",
+"scene_key": "core_bottle_6ebe74793197919e93f2361527e0abe5/tabletop_ur10e/scale010_pose008_0"
+},
+{
+"object": "core_cellphone_7afdaca858bb0a964a28575f3344964",
+"scene_key": "core_cellphone_7afdaca858bb0a964a28575f3344964/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "mujoco_Nescafe_Momento_Mocha_Specialty_Coffee_Mix_8_ct",
+"scene_key": "mujoco_Nescafe_Momento_Mocha_Specialty_Coffee_Mix_8_ct/tabletop_ur10e/scale006_pose004_0"
+},
+{
+"object": "sem_Detergent_c02d623423a67ed9bda72093f9b5aa73",
+"scene_key": "sem_Detergent_c02d623423a67ed9bda72093f9b5aa73/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "core_can_a7059f3bf782790654976319206e3c9c",
+"scene_key": "core_can_a7059f3bf782790654976319206e3c9c/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "core_can_fd40fa8939f5f832ae1aa888dd691e79",
+"scene_key": "core_can_fd40fa8939f5f832ae1aa888dd691e79/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "sem_Eraser_c840d9dff65a24253cbb9b2355ce3eb8",
+"scene_key": "sem_Eraser_c840d9dff65a24253cbb9b2355ce3eb8/tabletop_ur10e/scale012_pose007_0"
+},
+{
+"object": "core_mug_6500ccc65e210b14d829190312080ea3",
+"scene_key": "core_mug_6500ccc65e210b14d829190312080ea3/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "sem_SodaCan_836ec249048214a6c8724d5673a063a6",
+"scene_key": "sem_SodaCan_836ec249048214a6c8724d5673a063a6/tabletop_ur10e/scale008_pose007_0"
+},
+{
+"object": "sem_FoodItem_83ad6d967cf17a985b3b9c71b7cfbff7",
+"scene_key": "sem_FoodItem_83ad6d967cf17a985b3b9c71b7cfbff7/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "mujoco_Brother_LC_1053PKS_Ink_Cartridge_CyanMagentaYellow_1pack",
+"scene_key": "mujoco_Brother_LC_1053PKS_Ink_Cartridge_CyanMagentaYellow_1pack/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "core_mug_6500ccc65e210b14d829190312080ea3",
+"scene_key": "core_mug_6500ccc65e210b14d829190312080ea3/tabletop_ur10e/scale008_pose007_0"
+},
+{
+"object": "core_bottle_a429f8eb0c3e6a1e6ea2d79f658bbae7",
+"scene_key": "core_bottle_a429f8eb0c3e6a1e6ea2d79f658bbae7/tabletop_ur10e/scale012_pose006_0"
+},
+{
+"object": "sem_ToyFigure_2180c4770b8c4fce951b9c885c695a12",
+"scene_key": "sem_ToyFigure_2180c4770b8c4fce951b9c885c695a12/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "mujoco_Tena_Pads_Heavy_Long_42_pads",
+"scene_key": "mujoco_Tena_Pads_Heavy_Long_42_pads/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "sem_Thumbtack_42ece945238a9f7a8877c667ba5c2021",
+"scene_key": "sem_Thumbtack_42ece945238a9f7a8877c667ba5c2021/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "core_jar_9f62aed6538caca130612f5c0ef21eb8",
+"scene_key": "core_jar_9f62aed6538caca130612f5c0ef21eb8/tabletop_ur10e/scale010_pose007_0"
+},
+{
+"object": "core_bowl_e3095ecacc36080cb398a1cfd1079875",
+"scene_key": "core_bowl_e3095ecacc36080cb398a1cfd1079875/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "sem_CerealBox_12a565f8aecaafcbce41b639931f9ca1",
+"scene_key": "sem_CerealBox_12a565f8aecaafcbce41b639931f9ca1/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "mujoco_Twinlab_Nitric_Fuel",
+"scene_key": "mujoco_Twinlab_Nitric_Fuel/tabletop_ur10e/scale006_pose007_0"
+},
+{
+"object": "ddg_gd_starfruit_poisson_000",
+"scene_key": "ddg_gd_starfruit_poisson_000/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "sem_DrinkingUtensil_cf777e14ca2c7a19b4aad3cc5ce7ee8",
+"scene_key": "sem_DrinkingUtensil_cf777e14ca2c7a19b4aad3cc5ce7ee8/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "sem_CellPhone_16c6403551e81a3eeedfca8b846d3b01",
+"scene_key": "sem_CellPhone_16c6403551e81a3eeedfca8b846d3b01/tabletop_ur10e/scale012_pose002_0"
+},
+{
+"object": "core_mug_659192a6ba300f1f4293529704725d98",
+"scene_key": "core_mug_659192a6ba300f1f4293529704725d98/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "core_mug_649a51c711dc7f3b32e150233fdd42e9",
+"scene_key": "core_mug_649a51c711dc7f3b32e150233fdd42e9/tabletop_ur10e/scale006_pose004_0"
+},
+{
+"object": "ddg_gd_vase_poisson_004",
+"scene_key": "ddg_gd_vase_poisson_004/tabletop_ur10e/scale012_pose006_0"
+},
+{
+"object": "core_bottle_a02a1255256fbe01c9292f26f73f6538",
+"scene_key": "core_bottle_a02a1255256fbe01c9292f26f73f6538/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "sem_VideoGameConsole_3544d641456573185c4fb5e81cca7196",
+"scene_key": "sem_VideoGameConsole_3544d641456573185c4fb5e81cca7196/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "sem_Camera_c53b764706d3ea0c903ed64490279b2a",
+"scene_key": "sem_Camera_c53b764706d3ea0c903ed64490279b2a/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "ddg_kit_SmacksCereals",
+"scene_key": "ddg_kit_SmacksCereals/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "core_mug_659192a6ba300f1f4293529704725d98",
+"scene_key": "core_mug_659192a6ba300f1f4293529704725d98/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "core_pillow_7c1194c82d28663d7d910d51d878f708",
+"scene_key": "core_pillow_7c1194c82d28663d7d910d51d878f708/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "sem_Vase_38e712afedf758c355db916689d826c1",
+"scene_key": "sem_Vase_38e712afedf758c355db916689d826c1/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "mujoco_Sorry_Sliders_Board_Game",
+"scene_key": "mujoco_Sorry_Sliders_Board_Game/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "core_jar_edb8e199485be4e968747a7f12307bdb",
+"scene_key": "core_jar_edb8e199485be4e968747a7f12307bdb/tabletop_ur10e/scale008_pose006_0"
+},
+{
+"object": "core_jar_8c9ffa8ee8f3b497e987f10c30c67205",
+"scene_key": "core_jar_8c9ffa8ee8f3b497e987f10c30c67205/tabletop_ur10e/scale010_pose007_0"
+},
+{
+"object": "sem_PillBottle_776502db6e2e680e5e4f0d37557f3953",
+"scene_key": "sem_PillBottle_776502db6e2e680e5e4f0d37557f3953/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "mujoco_UGG_Bailey_Bow_Womens_Clogs_Black_7",
+"scene_key": "mujoco_UGG_Bailey_Bow_Womens_Clogs_Black_7/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "core_camera_cd5fd9a2bd6792ad318e2f26ee2da02c",
+"scene_key": "core_camera_cd5fd9a2bd6792ad318e2f26ee2da02c/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "core_bottle_42f85b0eb5e9fd508f9c4ecc067067e9",
+"scene_key": "core_bottle_42f85b0eb5e9fd508f9c4ecc067067e9/tabletop_ur10e/scale012_pose000_0"
+},
+{
+"object": "core_can_3c8af6b0aeaf13c2abf4b6b757f4f768",
+"scene_key": "core_can_3c8af6b0aeaf13c2abf4b6b757f4f768/tabletop_ur10e/scale006_pose004_0"
+},
+{
+"object": "sem_Camera_509017601d92a7d1db286a46dfc37518",
+"scene_key": "sem_Camera_509017601d92a7d1db286a46dfc37518/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "core_camera_ee0f44a37e50eda2a39b1d7ef8834b0",
+"scene_key": "core_camera_ee0f44a37e50eda2a39b1d7ef8834b0/tabletop_ur10e/scale008_pose000_0"
+},
+{
+"object": "sem_Bear_762fbaa6bf5823c21c1ef519b9196b63",
+"scene_key": "sem_Bear_762fbaa6bf5823c21c1ef519b9196b63/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "mujoco_Nikon_1_AW1_w11275mm_Lens_Silver",
+"scene_key": "mujoco_Nikon_1_AW1_w11275mm_Lens_Silver/tabletop_ur10e/scale012_pose001_0"
+},
+{
+"object": "core_can_e8c446c352b84189bc8d62498ee8e85f",
+"scene_key": "core_can_e8c446c352b84189bc8d62498ee8e85f/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "sem_Battery_55bd81649a4685ebca46627d6e5395f5",
+"scene_key": "sem_Battery_55bd81649a4685ebca46627d6e5395f5/tabletop_ur10e/scale012_pose007_0"
+},
+{
+"object": "core_jar_353015291fdbc5589de5525299ba58f",
+"scene_key": "core_jar_353015291fdbc5589de5525299ba58f/tabletop_ur10e/scale008_pose002_0"
+},
+{
+"object": "ddg_gd_light_bulb_poisson_010",
+"scene_key": "ddg_gd_light_bulb_poisson_010/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "core_mug_1dd8290a154f4b1534a8988fdcee4fde",
+"scene_key": "core_mug_1dd8290a154f4b1534a8988fdcee4fde/tabletop_ur10e/scale010_pose001_0"
+},
+{
+"object": "sem_Snowman_a9c5a1150d8e2bfe79f0be73913de469",
+"scene_key": "sem_Snowman_a9c5a1150d8e2bfe79f0be73913de469/tabletop_ur10e/scale012_pose003_0"
+},
+{
+"object": "ddg_gd_avocado_poisson_000",
+"scene_key": "ddg_gd_avocado_poisson_000/tabletop_ur10e/scale010_pose002_0"
+},
+{
+"object": "sem_Eraser_c840d9dff65a24253cbb9b2355ce3eb8",
+"scene_key": "sem_Eraser_c840d9dff65a24253cbb9b2355ce3eb8/tabletop_ur10e/scale012_pose006_0"
+},
+{
+"object": "ddg_gd_toaster_poisson_009",
+"scene_key": "ddg_gd_toaster_poisson_009/tabletop_ur10e/scale006_pose005_0"
+},
+{
+"object": "sem_Tank_52eb26e5a71f2c8fc36c7821ad0d5a86",
+"scene_key": "sem_Tank_52eb26e5a71f2c8fc36c7821ad0d5a86/tabletop_ur10e/scale008_pose001_0"
+},
+{
+"object": "sem_Camera_235a6dd25c0a6f7b66f19f26ac490096",
+"scene_key": "sem_Camera_235a6dd25c0a6f7b66f19f26ac490096/tabletop_ur10e/scale010_pose005_0"
+},
+{
+"object": "sem_SodaCan_3703ada8cc31df4337b00c4c2fbe82aa",
+"scene_key": "sem_SodaCan_3703ada8cc31df4337b00c4c2fbe82aa/tabletop_ur10e/scale006_pose000_0"
+},
+{
+"object": "ddg_gd_jar_poisson_000",
+"scene_key": "ddg_gd_jar_poisson_000/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "mujoco_Perricone_MD_Health_Weight_Management_Supplements",
+"scene_key": "mujoco_Perricone_MD_Health_Weight_Management_Supplements/tabletop_ur10e/scale008_pose003_0"
+},
+{
+"object": "sem_BeanBag_7263fe53bb4601efa37f3fc191551700",
+"scene_key": "sem_BeanBag_7263fe53bb4601efa37f3fc191551700/tabletop_ur10e/scale010_pose003_0"
+},
+{
+"object": "sem_Vase_b99191dfcaa751ad50e02ef26f47fe02",
+"scene_key": "sem_Vase_b99191dfcaa751ad50e02ef26f47fe02/tabletop_ur10e/scale012_pose007_0"
+},
+{
+"object": "sem_FoodItem_60e7807fae256b9edc0dec45107520e9",
+"scene_key": "sem_FoodItem_60e7807fae256b9edc0dec45107520e9/tabletop_ur10e/scale010_pose000_0"
+},
+{
+"object": "sem_FileCabinet_ee8c6bdd41cb2f04c56f78d9daf213b",
+"scene_key": "sem_FileCabinet_ee8c6bdd41cb2f04c56f78d9daf213b/tabletop_ur10e/scale012_pose005_0"
+},
+{
+"object": "core_bottle_8a23e8ae357fa2b71920da6870de352",
+"scene_key": "core_bottle_8a23e8ae357fa2b71920da6870de352/tabletop_ur10e/scale012_pose004_0"
+},
+{
+"object": "core_bottle_defc45107217afb846564a8a219239b",
+"scene_key": "core_bottle_defc45107217afb846564a8a219239b/tabletop_ur10e/scale010_pose006_0"
+},
+{
+"object": "core_jar_3dec5904337999561710801cae5dc529",
+"scene_key": "core_jar_3dec5904337999561710801cae5dc529/tabletop_ur10e/scale010_pose007_0"
+}
+]

@@ -1,0 +1,44 @@
+diff --git a/src/curobo/curobolib/geom.py b/src/curobo/curobolib/geom.py
+index 55d3217..f3f16ad 100644
+--- a/src/curobo/curobolib/geom.py
++++ b/src/curobo/curobolib/geom.py
+@@ -57,6 +57,13 @@ def get_self_collision_distance(
+     experimental_kernel=True,
+     activation_distance=0.0
+ ):
++    # SHARPA_SLOW_SELF_COLLISION_RESET_V1
++    # Slow kernels may leave outputs from previous calls untouched.
++    if not experimental_kernel:
++        with torch.no_grad():
++            out_distance.zero_()
++            out_vec.zero_()
++            sparse_index.zero_()
+     r = geom_cu.self_collision_distance(
+         out_distance,
+         out_vec,
+diff --git a/src/curobo/geom/cpp/setup.py b/src/curobo/geom/cpp/setup.py
+index 2360132..11da567 100644
+--- a/src/curobo/geom/cpp/setup.py
++++ b/src/curobo/geom/cpp/setup.py
+@@ -17,7 +17,7 @@ extension_mod = Extension(
+         'coal', 'boost_filesystem', 'qhull_r', 'octomap', 'octomath', 'assimp', 'stdc++', 'gcc_s', 'pthread', 'm', 'rt', 'c'
+     ],
+     include_dirs=[include_dir, eigen_include_dir, pybind11.get_include()],
+-    extra_compile_args=["-fopenmp", "-std=c++11"],  # OpenMP and C++11 support
++    extra_compile_args=["-fopenmp", "-std=c++14"],  # OpenMP and C++11 support
+     extra_link_args=[f"-L{lib_dir}", "-lcoal", "-fopenmp"],
+     language="c++"
+ )
+diff --git a/src/curobo/geom/sdf/world_mesh.py b/src/curobo/geom/sdf/world_mesh.py
+index c4f1c1d..ff8b05a 100644
+--- a/src/curobo/geom/sdf/world_mesh.py
++++ b/src/curobo/geom/sdf/world_mesh.py
+@@ -75,7 +75,7 @@ class WorldMeshCollision(WorldPrimitiveCollision):
+         self._mesh_tensor_list = None
+         self._env_mesh_names = None
+         self._contact_mesh_warp_idx = None
+-        self._wp_device = wp.torch.device_from_torch(self.tensor_args.device)
++        self._wp_device = wp.device_from_torch(self.tensor_args.device)
+         self._wp_mesh_cache = {}  # stores warp meshes across environments
+         
+         super().__init__(config)

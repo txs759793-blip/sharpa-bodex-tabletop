@@ -1,0 +1,317 @@
+robot_cfg:
+  kinematics:
+    use_root_pose: true
+    grad_group_names:
+    - - right_index_MCP_FE
+      - right_index_MCP_AA
+      - right_index_PIP
+      - right_index_DIP
+    - - right_middle_MCP_FE
+      - right_middle_MCP_AA
+      - right_middle_PIP
+      - right_middle_DIP
+    - - right_ring_MCP_FE
+      - right_ring_MCP_AA
+      - right_ring_PIP
+      - right_ring_DIP
+    - - right_pinky_CMC
+      - right_pinky_MCP_FE
+      - right_pinky_MCP_AA
+      - right_pinky_PIP
+      - right_pinky_DIP
+    - - right_thumb_CMC_FE
+      - right_thumb_CMC_AA
+      - right_thumb_MCP_FE
+      - right_thumb_MCP_AA
+      - right_thumb_IP
+    hand_pose_transfer_path: __RESOLVED__/hand_pose_transfer.yml
+    urdf_path: __RESOLVED__/right_sharpa_wave_bodex.urdf
+    asset_root_path: __RESOLVED__
+    base_link: right_hand_C_MC
+    ee_link: right_hand_C_MC
+    link_names:
+    - right_hand_C_MC
+    - right_thumb_CMC_VL
+    - right_thumb_MC
+    - right_thumb_MCP_VL
+    - right_thumb_PP
+    - right_thumb_DP
+    - right_thumb_elastomer
+    - right_thumb_fingertip
+    - right_index_MCP_VL
+    - right_index_PP
+    - right_index_MP
+    - right_index_DP
+    - right_index_elastomer
+    - right_index_fingertip
+    - right_middle_MCP_VL
+    - right_middle_PP
+    - right_middle_MP
+    - right_middle_DP
+    - right_middle_elastomer
+    - right_middle_fingertip
+    - right_ring_MCP_VL
+    - right_ring_PP
+    - right_ring_MP
+    - right_ring_DP
+    - right_ring_elastomer
+    - right_ring_fingertip
+    - right_pinky_MC
+    - right_pinky_MCP_VL
+    - right_pinky_PP
+    - right_pinky_MP
+    - right_pinky_DP
+    - right_pinky_elastomer
+    - right_pinky_fingertip
+    lock_joints: null
+    extra_links: null
+    tendon_joints: null
+    collision_link_names:
+    - right_hand_C_MC
+    - right_thumb_MC
+    - right_thumb_PP
+    - right_thumb_DP
+    - right_thumb_elastomer
+    - right_index_MCP_VL
+    - right_index_PP
+    - right_index_MP
+    - right_index_DP
+    - right_index_elastomer
+    - right_middle_MCP_VL
+    - right_middle_PP
+    - right_middle_MP
+    - right_middle_DP
+    - right_middle_elastomer
+    - right_ring_MCP_VL
+    - right_ring_PP
+    - right_ring_MP
+    - right_ring_DP
+    - right_ring_elastomer
+    - right_pinky_MC
+    - right_pinky_MCP_VL
+    - right_pinky_PP
+    - right_pinky_MP
+    - right_pinky_DP
+    - right_pinky_elastomer
+    collision_spheres: __RESOLVED__/spheres.yml
+    collision_sphere_buffer: 0.0
+    extra_collision_spheres: {}
+    self_collision_ignore:
+      right_hand_C_MC:
+      - right_thumb_MC
+      - right_index_MCP_VL
+      - right_index_PP
+      - right_middle_MCP_VL
+      - right_middle_PP
+      - right_ring_MCP_VL
+      - right_ring_PP
+      - right_pinky_MC
+      right_thumb_MC:
+      - right_thumb_PP
+      right_thumb_PP:
+      - right_thumb_DP
+      - right_thumb_elastomer
+      right_thumb_DP:
+      - right_thumb_elastomer
+      right_thumb_elastomer: []
+      right_index_MCP_VL:
+      - right_index_PP
+      right_index_PP:
+      - right_index_MP
+      right_index_MP:
+      - right_index_DP
+      - right_index_elastomer
+      right_index_DP:
+      - right_index_elastomer
+      right_index_elastomer: []
+      right_middle_MCP_VL:
+      - right_middle_PP
+      right_middle_PP:
+      - right_middle_MP
+      right_middle_MP:
+      - right_middle_DP
+      - right_middle_elastomer
+      right_middle_DP:
+      - right_middle_elastomer
+      right_middle_elastomer: []
+      right_ring_MCP_VL:
+      - right_ring_PP
+      right_ring_PP:
+      - right_ring_MP
+      right_ring_MP:
+      - right_ring_DP
+      - right_ring_elastomer
+      right_ring_DP:
+      - right_ring_elastomer
+      right_ring_elastomer: []
+      right_pinky_MC:
+      - right_pinky_MCP_VL
+      - right_pinky_PP
+      right_pinky_MCP_VL:
+      - right_pinky_PP
+      right_pinky_PP:
+      - right_pinky_MP
+      right_pinky_MP:
+      - right_pinky_DP
+      - right_pinky_elastomer
+      right_pinky_DP:
+      - right_pinky_elastomer
+      right_pinky_elastomer: []
+    self_collision_buffer:
+      right_hand_C_MC: 0.0
+      right_thumb_MC: 0.0
+      right_thumb_PP: 0.0
+      right_thumb_DP: 0.0
+      right_thumb_elastomer: 0.0
+      right_index_MCP_VL: 0.0
+      right_index_PP: 0.0
+      right_index_MP: 0.0
+      right_index_DP: 0.0
+      right_index_elastomer: 0.0
+      right_middle_MCP_VL: 0.0
+      right_middle_PP: 0.0
+      right_middle_MP: 0.0
+      right_middle_DP: 0.0
+      right_middle_elastomer: 0.0
+      right_ring_MCP_VL: 0.0
+      right_ring_PP: 0.0
+      right_ring_MP: 0.0
+      right_ring_DP: 0.0
+      right_ring_elastomer: 0.0
+      right_pinky_MC: 0.0
+      right_pinky_MCP_VL: 0.0
+      right_pinky_PP: 0.0
+      right_pinky_MP: 0.0
+      right_pinky_DP: 0.0
+      right_pinky_elastomer: 0.0
+    use_global_cumul: true
+    mesh_link_names:
+    - right_hand_C_MC
+    - right_thumb_CMC_VL
+    - right_thumb_MC
+    - right_thumb_MCP_VL
+    - right_thumb_PP
+    - right_thumb_DP
+    - right_thumb_elastomer
+    - right_index_MCP_VL
+    - right_index_PP
+    - right_index_MP
+    - right_index_DP
+    - right_index_elastomer
+    - right_middle_MCP_VL
+    - right_middle_PP
+    - right_middle_MP
+    - right_middle_DP
+    - right_middle_elastomer
+    - right_ring_MCP_VL
+    - right_ring_PP
+    - right_ring_MP
+    - right_ring_DP
+    - right_ring_elastomer
+    - right_pinky_MC
+    - right_pinky_MCP_VL
+    - right_pinky_PP
+    - right_pinky_MP
+    - right_pinky_DP
+    - right_pinky_elastomer
+    contact_mesh_names:
+    - right_index_elastomer
+    - right_middle_elastomer
+    - right_ring_elastomer
+    - right_pinky_elastomer
+    - right_thumb_elastomer
+    cspace:
+      joint_names:
+      - right_thumb_CMC_FE
+      - right_thumb_CMC_AA
+      - right_thumb_MCP_FE
+      - right_thumb_MCP_AA
+      - right_thumb_IP
+      - right_index_MCP_FE
+      - right_index_MCP_AA
+      - right_index_PIP
+      - right_index_DIP
+      - right_middle_MCP_FE
+      - right_middle_MCP_AA
+      - right_middle_PIP
+      - right_middle_DIP
+      - right_ring_MCP_FE
+      - right_ring_MCP_AA
+      - right_ring_PIP
+      - right_ring_DIP
+      - right_pinky_CMC
+      - right_pinky_MCP_FE
+      - right_pinky_MCP_AA
+      - right_pinky_PIP
+      - right_pinky_DIP
+      retract_config:
+      - 0.6
+      - 0.0
+      - 0.2
+      - 0.0
+      - 0.2
+      - 0.2
+      - -0.2
+      - 0.2
+      - 0.1
+      - 0.2
+      - -0.06666666666666667
+      - 0.2
+      - 0.1
+      - 0.2
+      - 0.06666666666666667
+      - 0.2
+      - 0.1
+      - 0.1
+      - 0.2
+      - 0.2
+      - 0.2
+      - 0.1
+      null_space_weight:
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      cspace_distance_weight:
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      - 1.0
+      max_jerk: 500.0
+      max_acceleration: 15.0
