@@ -53,7 +53,7 @@ for c in sorted((run / "chunks").glob("c[0-9]*")):
                               "task.max_num=-1", "task.debug_render=false", "task.debug_viewer=false"] + extra,
                              cwd=BENCH, env=dict(os.environ, CUDA_VISIBLE_DEVICES=""), stdout=log, stderr=subprocess.STDOUT)
     assert rc == 0, save
-    tot += sum(1 for _ in grasp.rglob("*.npy"))
+    tot += len(json.loads((c / "DONE.json").read_text()))  # all generated candidates, including ones that could not be evaluated
     succ += sum(bool(np.load(p, allow_pickle=True).item()["succ_flag"]) for p in (save / "full_sharpa_wave/evaluation").rglob("*.npy"))
 res = dict(name=args.name, setting="tabletop", alpha=args.alpha, kp=args.kp, candidates=tot, success=succ, success_percent=round(100 * succ / max(tot, 1), 2))
 (out / "summary.json").write_text(json.dumps(res, indent=1))

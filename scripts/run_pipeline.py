@@ -4,8 +4,7 @@ Example:
   python scripts/run_pipeline.py --config tabletop_best --name best --start 0 --end 1000 --gpu 0
 
 Outputs go to <work_dir>/<name>/ . Re-running resumes from finished chunks.
-A chunk is one BODex process (default 40 scenes, solved 8 scenes at a time). Keep chunk sizes so that no solver
-batch contains a single scene (i.e. avoid sizes with remainder 1 modulo 8): single-scene batches produced invalid poses.
+A chunk is one BODex process (default 40 scenes, solved 8 scenes at a time).
 """
 from pathlib import Path
 from datetime import datetime
@@ -46,8 +45,11 @@ def convert_scene(raw_path, row, joint_order, grasp_root, n_expected):
     from task.convert_format import load_scene_cfg
     raw = np.load(raw_path, allow_pickle=True).item()
     pose = np.asarray(raw["robot_pose"])
-    if pose.shape != (1, n_expected, 3, 29) or not np.isfinite(pose).all():
-        raise RuntimeError("bad raw pose in %s" % raw_path)
+    if pose.shape != (1, n_expected, 3, 29):
+        raise RuntimeError("unexpected raw pose shape in %s" % raw_path)
+    # BODex occasionally returns non-finite poses for a few candidates (its log then shows a GJK warning).
+    # Such candidates are not written, so they get no evaluation file and are counted as failures.
+    valid = np.isfinite(pose[0]).all(axis=(1, 2))
     saved = list(raw["joint_names"])
     order = [saved.index(n) for n in joint_order]
     pose = np.concatenate([pose[0, ..., :7], pose[0, ..., 7:][..., order]], axis=-1)
@@ -57,6 +59,8 @@ def convert_scene(raw_path, row, joint_order, grasp_root, n_expected):
     common = dict(obj_path=str(Path(obj["file_path"]).resolve().parent.parent), obj_scale=float(np.asarray(obj["scale"], float)[0]),
                   obj_pose=obj["pose"], scene_path=str(Path(row["scene"]).resolve()))
     for i, traj in enumerate(pose):
+        if not valid[i]:
+            continue
         out = grasp_root / row["scene_key"] / ("%d_grasp.npy" % i)
         out.parent.mkdir(parents=True, exist_ok=True)
         np.save(out, dict(common, pregrasp_qpos=traj[0], grasp_qpos=traj[1], squeeze_qpos=traj[2]))
